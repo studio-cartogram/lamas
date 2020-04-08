@@ -1,0 +1,35 @@
+.swiper-button-next,
+.swiper-button-prev {
+    background:none;
+    height: auto;
+    width: auto;
+    margin: auto;
+    position:absolute;
+    left:auto;
+    right:auto;
+    padding:0;
+    display:block;
+    transition: opacity var(--timing);
+
+    &:hover {
+        opacity: 0.5;
+    }
+
+    &:active,
+    &:focus {
+        opacity: 0.35;
+    }
+}
+
+.swiper-button-next {
+    right:var(--unitTrio);
+    @media (--viewport-medium) {
+        right:var(--unitQuad);
+    }
+}
+.swiper-button-prev {
+    left:var(--unitTrio);
+    @media (--viewport-medium) {
+        left:var(--unitSex);
+    }
+}

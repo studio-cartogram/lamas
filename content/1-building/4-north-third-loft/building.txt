@@ -1,0 +1,49 @@
+Title: North Third Loft
+
+----
+
+Location: Brooklyn, NY
+
+----
+
+Year: 2009
+
+----
+
+Status: Completed
+
+----
+
+Client: Private
+
+----
+
+Team: Wei-Han Vivian Lee, James Macgillivray
+
+----
+
+Types: renovation
+
+----
+
+Text: The North-Third Loft is a 1,200 sf.ft. renovation designed for a musician/banker couple. The building was formerly a mill - one of the many old industrial buildings along the Brooklyn waterfront - bringing with it the challenges of rehabilitating an old neglected space but also a wealth of industrial details. Steel columns, steel and wood beams, brick walls and original wood floor were all exposed, stripped and often repaired.
+
+----
+
+Main: 
+
+(picture: ntl_01 extension: jpg class: full caption: This is a caption)
+(picture: ntl_02 extension: jpg class: full)
+(picture: ntl_03 extension: jpg class: full caption: Detail about this project)
+
+----
+
+Tagline: Exposed, stripped, repaired.
+
+----
+
+Color: #FFE7BA
+
+----
+
+Credits: 

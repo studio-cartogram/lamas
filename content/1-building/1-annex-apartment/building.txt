@@ -1,0 +1,61 @@
+Title: Annex Apartment
+
+----
+
+Client: Private
+
+----
+
+Year: 2016
+
+----
+
+Types: renovation,expansion,residential
+
+----
+
+Text: We designed a modern apartment to the top two levels of a heritage townhouse. By adding a panoramic window wall to a large exterior balcony gives this apartment a feel of being in the treetops of downtown Toronto.
+
+----
+
+Main: (picture: cover extension: jpg)
+
+----
+
+Location: Toronto, ON
+
+----
+
+Status: 
+
+----
+
+Team: 
+
+----
+
+Tagline: Up in the trees, downtown
+
+----
+
+Color: #ffffe0
+
+----
+
+Credits: 
+
+----
+
+Press: 
+
+- 
+  source: Dwell Magazine
+  link: >
+    https://www.dwell.com/article/a-renovated-boathouse-on-seattles-portage-bay-0ab8d50d
+- 
+  source: FastCo Design
+  link: >
+    https://www.fastcodesign.com/3063865/why-this-designer-quit-architecture-to-make-incredibly-cool-pastry
+- 
+  source: Walrus Magazine
+  link: http://thewalrus.ca/big-lonely-doug/

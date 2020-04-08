@@ -1,0 +1,41 @@
+.make-block {
+    display: block;
+}
+
+.make-inline-block {
+    display: inline-block !important;
+}
+
+.float-left {
+    float:left;
+}
+
+.float-right {
+    float:right;
+}
+
+.nowrap {
+    white-space:nowrap;
+}
+
+.hide-text {
+    position: absolute !important;
+    height: 1px; width: 1px; 
+    overflow: hidden;
+    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+    clip: rect(1px, 1px, 1px, 1px);
+}
+
+.hide-for-small {
+    display:none !important;
+    @media (--viewport-medium) {
+        display:block !important;
+    }
+}
+
+.hide-for-medium {
+    display:block;
+    @media (--viewport-medium) {
+        display:none !important;
+    }
+}

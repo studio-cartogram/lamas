@@ -1,0 +1,35 @@
+.brand {
+    padding-top: var(--unitDuo);
+    padding-bottom: var(--unitDuo);
+    width:100%;
+    overflow: hidden;
+    position:fixed;
+    top:0;
+    z-index:4;
+    padding-left: var(--unit);
+    padding-right: var(--unit);
+
+    & a {
+        white-space:nowrap;
+    }
+
+    @media (--viewport-medium) {
+        padding-left: var(--unitQuad);
+        padding-right: var(--unitQuad);
+    }
+}
+
+.wordmark {
+    letter-spacing: 2px;
+    line-height:1.35;
+    opacity:0.4;
+    font-weight: var(--fontWeightBold);
+    transition: all calc(var(--timing) * 3) var(--easing);
+}
+
+.link--menu .wordmark {
+    opacity:1;
+    &:hover {
+        opacity:0.4;
+    }
+}

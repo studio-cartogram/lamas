@@ -1,0 +1,19 @@
+/* 1vw = 1% of viewport width */
+/* 1vh = 1% of viewport height */
+/* 1vmin = 1vw or 1vh, whichever is smaller */
+/* 1vmax = 1vw or 1vh, whichever is larger */
+
+:root {
+    --unit: 8px;
+    --unitHalf: 4px;
+    --unitDuo: 16px;
+    --unitTrio: 24px;
+    --unitQuad: 32px;
+    --unitQuin: 40px;
+    --unitSex: 48px;
+    --unitSep: 56px;
+    --unitOct: 64px;
+    --unitNon: 72px;
+    --unitDec: 80px;
+    --siteWidth: 75rem;
+}

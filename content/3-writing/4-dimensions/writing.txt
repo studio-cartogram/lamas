@@ -1,0 +1,59 @@
+Title: Dimensions
+
+----
+
+Date: 2011-11-04
+
+----
+
+Types: 
+
+----
+
+Excerpt: The text for this essay is a reworked version of an original paper by the same title, "Hair, Spikes, Cattail, and Turkeyfoot" initially published in PLAT 1.5.
+
+----
+
+Full: 
+
+(picture: dimensions_01 extension: jpg class: full )
+(picture: dimensions_01 extension: gif class: full )
+
+----
+
+Download: (file: dimensions25_web.pdf text: Download the complete project)
+
+----
+
+Url: 
+
+----
+
+Color: #F0F8FF
+
+----
+
+Tags: Film,Published,Opinion
+
+----
+
+Location-full: 
+
+----
+
+Author: 
+
+----
+
+Main: 
+
+(picture: dimensions_01 extension: jpg class: half)
+(picture: dimensions_01 extension: gif class: half)
+
+----
+
+External: 
+
+----
+
+Publication: PLAT 1.5.

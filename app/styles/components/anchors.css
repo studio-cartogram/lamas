@@ -1,0 +1,127 @@
+@custom-selector :--enter :hover, :focus, .is-active;
+
+.link,
+a {
+    color: var(--linkColor);
+    cursor:pointer;
+	text-decoration: none;
+    transition: all var(--timing) var(--easing);
+    background: none;
+    border:none;
+}
+
+.point {
+    cursor:pointer;
+}
+
+.link,
+a:--enter {
+    color: var(--linkColorActive);
+}
+
+p > a,
+.link--inline,
+.link--secondary,
+.link--primary {
+    position:relative;
+    display:inline-block;
+    line-height:1;
+    transition: all var(--timing) var(--easing);
+
+    &:before {
+        content:'';
+        background: var(--linkColorUnderline);
+        position:absolute;
+        display:block;
+        top:0;
+        bottom:0;
+        left:0;
+        right:0;
+        width:auto;
+        transition: all var(--timing) var(--easing);
+        transform-origin: 100% 100%;
+        z-index:-1;
+        transform: scaleY(0.2);
+        opacity:0.4;
+    }
+
+    &:--enter {
+        &:before {
+            transform: scaleY(1);
+        }
+    }
+}
+
+.link--secondary {
+    line-height:1.6;
+    &:before {
+        height: var(--unitHalf);
+        transform: scaleY(0);
+        top:auto;
+        bottom:20%;
+    }
+}
+
+
+.anchor-trigger:--enter .link--secondary:before,
+.anchor-trigger:--enter .link--primary:before {
+    transform: scaleY(1);
+}
+
+.link--tertiary {
+    position:relative;
+    transition: all var(--timing) var(--easing);
+    &:after {
+        position: absolute;
+        content: '';
+        height: 2px;
+        width: var(--unit);
+        background: currentColor;
+        transition: all var(--timing) var(--easing);
+        top:50%;
+        left:0;
+        z-index:1;
+        transform-origin: 0 0;
+        transform: scaleX(0) ;
+    }
+
+    &:--enter {
+        color: var(--primaryColor);
+        padding-left:var(--unit);
+        &:after {
+            transform: scaleX(1) ;
+        }
+    }
+
+    /* @media (--viewport-medium) { */
+        &:after {
+            width: var(--unitTrio);
+        }
+        &:--enter {
+            padding-left:var(--unitTrio);
+        }
+    /* } */
+}
+
+.link--with-icon {
+    position:relative;
+    padding-right: var(--unitDuo);
+    & .link__icon {
+        position:absolute;
+        right:0;
+        top:50%;
+        transform: translate(0, -50%);
+        margin-top:-1px;
+    }
+}
+.anchor-trigger:--enter .link--tertiary {
+    padding-left:var(--unitTrio);
+    &:after {
+        transform: scaleX(1) ;
+    }
+}
+
+a:active {
+    color: var(--linkColorActive) !important;
+}
+

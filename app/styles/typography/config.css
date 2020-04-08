@@ -1,0 +1,23 @@
+
+:root {
+    --fontSizeBase: 16;
+    --fontSizeGiga: calc(100 / var(--fontSizeBase)* 1rem);
+    --fontSizeMega: calc(50 / var(--fontSizeBase)* 1rem);
+    --fontSizeAlpha: calc(26 / var(--fontSizeBase) * 1rem);
+    --fontSizeBeta: calc(26 / var(--fontSizeBase) * 1rem);
+    --fontSizeGamma: calc(14 / var(--fontSizeBase) * 1rem);
+    --fontSizeDelta: calc(16 / var(--fontSizeBase)* 1rem);
+    --fontSizeZeta: calc(11 / var(--fontSizeBase)* 1rem);
+
+    --fontSizeContent: calc(16 / var(--fontSizeBase)* 1rem);
+    --fontSizeSmall: calc(14 / var(--fontSizeBase)* 1rem);
+    --fontSizeXSmall: calc(12 / var(--fontSizeBase)* 1rem);
+    --fontSizeLarge: calc(22 / var(--fontSizeBase) * 1rem);
+
+    --fontFamily: 'acumin-pro', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    --fontFamilySecondary: 'droid-sans-mono', 'menlo', monospace;
+    --fontWeightNormal: 200;
+    --fontWeightBold: 600;
+}
+
+

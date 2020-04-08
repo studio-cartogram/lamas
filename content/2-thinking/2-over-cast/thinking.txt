@@ -1,0 +1,53 @@
+Title: Over Cast
+
+----
+
+Tagline: Solidification of distant air brought close
+
+----
+
+Color: #FAEFEC
+
+----
+
+Location: Chicago, IL
+
+----
+
+Year: 2015
+
+----
+
+Status: Proposal
+
+----
+
+Client: Chicago Architecture Biennial
+
+----
+
+Team: Vivian Lee, James Macgillivray, Roya Mottahedeh, Clara Syme
+
+----
+
+Types: Competition
+
+----
+
+Text: Over Cast is a solidification of distant air brought close, a piece of man-made sky in the sky. It is cast in the form of a coffered ceiling, lifted and reflected to infinity over the the Chicago landscape like an endlessly expanding chunk of firmament. The overhead expanse spreads out and serves as a civic canopy for many activities and all seasons.
+
+----
+
+Main: 
+
+(picture: oc_02 extension: jpg class: full caption: this is a caption )
+(picture: oc_03 extension: jpg class: full )
+(picture: oc_04 extension: jpg class: full )
+(picture: oc_05 extension: jpg class: full )
+(picture: oc_06 extension: jpg class: full )
+(picture: oc_07 extension: jpg class: full )
+(picture: oc_08 extension: jpg class: full )
+
+----
+
+Credits: 

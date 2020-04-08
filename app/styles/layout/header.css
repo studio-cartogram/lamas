@@ -1,0 +1,26 @@
+.header {
+    top:0;
+    right:var(--unitDuo);
+    position:fixed;
+    z-index: 11;
+    transition: all var(--timing) var(--easing);
+    overflow: hidden;
+    @media (--viewport-medium) {
+        right:var(--unitQuin);
+    }
+}
+
+.header {
+    padding-top: var(--unitDuo);
+    padding-bottom: var(--unitDuo);
+}
+
+.header.headroom--not-top.headroom--unpinned {
+    transform: translateY(-100%);
+}
+
+
+.headroom-wrapper {
+    position:relative;
+}
+

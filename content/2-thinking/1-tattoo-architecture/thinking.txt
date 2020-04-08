@@ -1,0 +1,78 @@
+Title: Tattoo Architecture
+
+----
+
+Tagline: New spatial effects and material misregistration.
+
+----
+
+Color: #F8F8FF
+
+----
+
+Location: Toronto, ON
+
+----
+
+Year: 2014 - Present
+
+----
+
+Status: Ongoing
+
+----
+
+Client: Research
+
+----
+
+Team: Vivian Lee, James Macgillivray, Jennifer Ng, Isaac Ng, Clara Syme, Elaine Chau
+
+----
+
+Types: Design Research
+
+----
+
+Text: Hydrographics is the method by which artwork or pattern can be imprinted onto complex surfaces through aqueous transfer. Invented in 1974 but only popularized in the last two decades for the decoration of automobiles and weaponry, this application opens architecture up to the uncharted potential for a collaboration between curvilinear surfaces and optical graphics for new spatial effects and material misregistration.
+
+----
+
+Main: 
+
+(picture: ta_01 extension: gif class: full)
+(picture: ta_02 extension: jpg class: half)
+(picture: ta_04 extension: jpg class: half)
+(picture: ta_03 extension: gif class: full)
+(picture: ta_05 extension: jpg class: full)
+(picture: ta_08 extension: jpg class: half)
+(picture: ta_06 extension: jpg class: half)
+
+----
+
+Credits: 
+
+----
+
+Press: 
+
+- 
+  source: Wallpaper Magazine
+  link: >
+    http://www.wallpaper.com/architecture/interactive-floorplan-russell-jones-minimalist-mews-london
+- 
+  source: Dwell Magazine
+  link: >
+    https://www.dwell.com/article/how-one-family-of-three-does-it-all-in-675-square-feet-c920156a
+- 
+  source: Fast Co Design
+  link: >
+    https://www.fastcodesign.com/3063865/why-this-designer-quit-architecture-to-make-incredibly-cool-pastry
+- 
+  source: Globe and Mail
+  link: >
+    http://www.theglobeandmail.com/life/home-and-garden/architecture/architecture-for-introverts-how-to-find-peace-and-quietindoors/article31864339/
+- 
+  source: Toronto Life
+  link: >
+    http://torontolife.com/real-estate/houses/toronto-house-sold-14-garden-avenue/

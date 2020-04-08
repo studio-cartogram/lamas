@@ -1,0 +1,20 @@
+/* Widescreen */
+/* 3000px x 1800px */
+/*  */
+/* Desktop */
+/* 1500px x 900px */
+/*  */
+/* Mobile Vertical */
+/* 750px x 1334px */
+/*  */
+/* Mobile Horizontal */
+/* 1334px x 750px */
+
+
+@custom-media --viewport-medium (min-width: 720px);
+@custom-media --viewport-large (min-width: 850px);
+@custom-media --viewport-xlarge (min-width: 1500px);
+
+/* @media (--viewport-medium) { */
+/* body { font-size: calc(var(--fontSize) * 1.2); } */
+/* } */

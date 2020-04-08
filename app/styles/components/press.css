@@ -1,0 +1,30 @@
+.press.press {
+    margin: 0 calc(var(--unitDuo) * -1);
+    width: auto;
+}
+
+.press__image {
+    padding: var(--unitDuo);
+    @media (--viewport-medium) {
+        flex: 1;
+    }
+}
+
+.press__content {
+    padding:var(--unitDuo);
+    @media (--viewport-medium) {
+        flex: 3;
+    }
+}
+
+.press:nth-child(even) {
+    @media (--viewport-medium) {
+        & .press__image {
+            order:2;
+        }
+    }
+}
+
+.press__description.press__description {
+    max-width: 100%;
+}

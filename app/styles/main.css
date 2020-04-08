@@ -1,0 +1,37 @@
+@import 'normalize.css';
+@import 'vendor';
+@import 'config';
+@import 'common';
+@import 'typography';
+@import 'components';
+@import 'layout';
+@import 'svgs';
+@import 'shame';
+
+*,
+html,
+body {
+    box-sizing: border-box;
+}
+html {
+    min-height: 100%;
+    position: relative;
+}
+
+body {
+	background-color: var(--siteBackground);
+	font-family: var(--fontFamily);
+	font-weight: var(--fontWeightNormal);
+	text-align:center;
+    transition: color var(--timing) var(--easing);
+    color: var(--siteColor);
+    margin: 0 ;
+}
+
+body.is-loading {
+    overflow:hidden;
+}
+
+.scene {
+    overflow:hidden;
+}

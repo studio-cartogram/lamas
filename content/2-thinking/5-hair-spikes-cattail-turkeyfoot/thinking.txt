@@ -1,0 +1,55 @@
+Title: Hair Spikes, Cattail & Turkeyfoot
+
+----
+
+Location: Matthaei Botanical Gardens, Ann Arbor, Michigan
+
+----
+
+Year: 2011
+
+----
+
+Status: Completed
+
+----
+
+Client: University of Michigan
+
+----
+
+Team: Wei-Han Vivian Lee, Tarlton Long, Peter Yi, Patrick Ethen, Rennie Jones, Jon Swendris, Nathan Smalligan, James Macgillivray
+
+----
+
+Types: Installation
+
+----
+
+Text: Hair, Spikes, Cattail, and Turkeyfoot combines two anachronistic methods of construction - the oral tradition of thatch within the structure of digital fabrication - to produce a temporary pavilion at the Ann Arbor Botanical Gardens. Using the abundant cattail and turkeyfoot vegetation in a nearby pond, volunteer students harvested, threshed, bundled, jammed, stacked, and tamed the unruly grasses into unitized, bundled assemblies. The project emphasized its own labor and guided the work of the students through the representation of a discrete set of movements and processes. The indeterminate fuzziness in both the material and tradition of thatch required a retooling of fabrication. The final product does not come fully formed off the bed of the water-jet cutter; it must be worked and persuaded to accept the contingencies of organic matter.
+
+----
+
+Main: 
+
+(picture: hsct_01-sm extension: jpg class: full caption: This is a caption)
+(picture: hsct_02-sm extension: jpg class: half caption: Another note, another detail)
+(picture: hsct_03 extension: jpg class: half)
+(picture: hsct_04 extension: jpg class: full)
+(picture: hsct_05 extension: jpg class: half caption: Another caption)
+(picture: hsct_06-sm extension: jpg class: half)
+(picture: hsct_07-sm extension: jpg class: full)
+(picture: hsct_08 extension: jpg class: half caption: Here's another detail about this project)
+(picture: hsct_09 extension: jpg class: half)
+
+----
+
+Tagline: Two anachronistic methods of construction, combined
+
+----
+
+Color: #FFFACD
+
+----
+
+Credits: 

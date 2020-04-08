@@ -1,0 +1,19 @@
+{
+    "parser": "babel-eslint",
+    "plugins": [
+        "react"
+    ],
+    "ecmaFeatures": {
+        "blockBindings": true,
+        "forOf": true,
+        "jsx": true,
+        "modules": true,
+        "arrowFunctions": true,
+        "classes": true,
+        "spread": true,
+        "destructuring":true
+    },
+    "rules": {
+        "semi": 2
+    }
+}

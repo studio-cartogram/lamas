@@ -1,0 +1,23 @@
+.menu {
+    position:absolute;
+    top:var(--unitSex);
+    left:50%;
+    width:100%;
+    transform: translate(-50%, 0);
+    z-index:4;
+    margin:auto;
+    transition: all var(--timing);
+    height:var(--unitQuin);
+    overflow:hidden;
+    transition: all var(--timing);
+
+    &.is-open {
+        height: 100vh;
+    }
+
+    @media (--viewport-medium) {
+        top:0;
+        background: transparent;
+        width: auto;
+    }
+}

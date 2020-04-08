@@ -1,0 +1,39 @@
+.text-capitalize {
+    text-transform: capitalize;
+}
+
+.text-left {
+    text-align:left;
+}
+
+.text-right {
+    text-align:right;
+}
+
+.strong,
+strong {
+    font-weight:var(--fontWeightBold);
+}
+
+.dotdotdot {
+    width:100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+blockquote,
+.quoted {
+    quotes: "“" "”" "‘" "’";
+    &:before {
+        content: open-quote;
+        font-family: serif;
+        position:absolute;
+        transform: translateX(-120%);
+    }
+    &:after {
+        content: close-quote;
+        font-family: serif;
+    }
+}
+

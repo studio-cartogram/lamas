@@ -1,0 +1,11 @@
+@svg-load external url(./external.svg) {}
+
+.external {
+    display:inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 1;
+    transition: all var(--timing) var(--easing);
+    position:relative;
+    background-image: svg-inline(external);
+}

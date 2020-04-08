@@ -1,0 +1,44 @@
+.next-prev-link {
+    background: #fff;
+    z-index: 1;
+    position:relative;
+    width: 100%;
+    border-top: 1px solid var(--grayLight);
+
+    @media (--viewport-medium) {
+        width: 40%;
+        border:none;
+    }
+
+    & .next-prev-link__text,
+    & figure,
+    & img {
+        display:inline-block;
+        vertical-align:middle;
+    }
+
+    & .next-prev-link__text {
+        padding: 0 var(--unit);
+        width: 70%;
+        @media (--viewport-medium) {
+            padding: 0 var(--unitQuad);
+        }
+    }
+
+    & figure {
+        width: 30%;
+        min-height: 100px;
+    }
+}
+
+.all-link {
+    margin-bottom: var(--unitSex);
+    @media (--viewport-medium) {
+        position:absolute;
+        left:50%;
+        transform: translateX(-50%);
+        bottom:0;
+        width: auto;
+        z-index: 2;
+    }
+}

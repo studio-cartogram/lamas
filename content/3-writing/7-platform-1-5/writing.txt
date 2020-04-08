@@ -1,0 +1,56 @@
+Title: Platform 1.5
+
+----
+
+Date: 2016-07-08
+
+----
+
+Types: 
+
+----
+
+Excerpt: The article expands on the labor and craft issues involved in the production of a site specific installation called Hair Spikes, Cattail, and Turkeyfoot. The project seeks to discover new construction drawing conventions by exploring the oral tradition of thatch alongside the representational demands of digital fabrication. It combines two methods of construction – digital and oral – to explore the role of sequence-based drawing in current architectural practice. The article summarizes the production of the pavilion and elaborates upon the issues that it raises for the discipline.
+
+----
+
+Full: 
+
+(picture: PLAT_01 extension: jpg class: full )
+(picture: PLAT_02 extension: jpg class: full )
+
+----
+
+Download: 
+
+----
+
+Url: 
+
+----
+
+Color: #F0FFF0
+
+----
+
+Tags: Published,Update
+
+----
+
+Location-full: 
+
+----
+
+Author: 
+
+----
+
+Main: 
+
+(picture: PLAT_01 extension: jpg class: half)
+(picture: PLAT_02 extension: jpg class: half)
+(picture: scapegoat_01 extension: jpg class: full)
+
+----
+
+External: 

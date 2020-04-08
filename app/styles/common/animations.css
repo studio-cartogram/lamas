@@ -1,0 +1,93 @@
+/*
+ * Keyframes
+ */
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes dropIn {
+    0% {
+        transform: translate3d(0, -100%, 0);
+    }
+
+
+    100% {
+        transform: none;
+    }
+}
+
+
+
+
+/*
+ * CSS Page Transitions
+ * Don't forget to add vendor prefixes!
+ */
+.scene {
+    /** Basic styles for an animated element */
+    & .scene__element {
+        animation-duration: var(--animationTiming);
+        transition-timing-function: ease;
+        animation-fill-mode: both;
+
+    }
+
+    /** An element that fades in */
+    & .scene__element--fadein {
+        opacity:0;
+        animation-name: fadeIn;
+        animation-duration: 1000ms;
+    }
+
+    /** An element that fades in and slides down */
+    & .scene__element--drop {
+        animation-duration: 200ms;
+        animation-name: dropIn;
+    }
+
+    & .scene__element--draw {
+        stroke-width: 1.5px;
+        stroke-dasharray: 900;
+        stroke-dashoffset: 900;
+        animation-name: draw;
+    }
+
+}
+
+
+.scene.is-exiting .scene__element {
+    animation-direction: alternate-reverse;
+    -webkit-animation-direction: alternate-reverse;
+}
+
+.scene.is-exiting .scene__element--fadein {
+    animation-name: fadeOut;
+    animation-direction: normal;
+    animation-duration: 500ms;
+}
+
+.is-moving,
+.is-moving a,
+.is-loading,
+.is-loading a {
+  cursor: progress;
+}

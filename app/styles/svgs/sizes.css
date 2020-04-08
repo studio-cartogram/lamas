@@ -1,0 +1,9 @@
+.icon--x-small {
+    height: var(--iconXSmall);
+    width: var(--iconXSmall);
+}
+
+.icon--small {
+    height: var(--iconSmall);
+    width: var(--iconSmall);
+}

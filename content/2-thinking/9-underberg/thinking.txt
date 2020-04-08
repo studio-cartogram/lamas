@@ -1,0 +1,59 @@
+Title: Underberg
+
+----
+
+Client: MoMA PS1
+
+----
+
+Year: 2014
+
+----
+
+Types: Competition
+
+----
+
+Text: “Underberg” is an urban iceberg. The world under the ice unfolds as a kind of magical urbanism. Its crevasses take on the form of the avenues and streets of the gridiron. The edges of blocks drip as if they are melting, creating spaces like rooms with rain instead of walls. Throughout the walls of the streets an intricate series of marble patterns act as a kind of instinctual wayfinding for its citizens. Fifty foot poles hold the entire form up off the ground in an adapted tensegrity frame. The poles represent the idea of structure, but they also comprise the giant air intakes and exhaust to keep cool air going through the courtyard at all times. The poles are prefabricated telecommunications towers; once their job in the courtyard is done, they will be re-sold. The glacial forms and marble surfaces are made out of Tyvek, an extremely low embodied energy material. It has been crafted to resemble stone using the centuries old practice of aqueous marbling. The Tyvek will be re-purposed by American Apparel for a limited collection of coats and jackets.
+
+----
+
+Main: 
+
+(picture: cover extension: jpg)
+(picture: ups1_01 extension: jpg class: half caption: This is a caption)
+(picture: ups1_02 extension: jpg class: half caption: Another caption)
+(picture: ups1_03-sm extension: jpg class: full)
+(picture: ups1_04-sm extension: jpg class: half)
+(picture: ups1_05-sm extension: jpg class: half caption: Yet another caption)
+(picture: ups1_06-sm extension: jpg class: full)
+
+----
+
+Tagline: An urban iceberg
+
+----
+
+Color: #BBFFFF
+
+----
+
+Location: New York, NY
+
+----
+
+Status: 
+
+----
+
+Team: 
+
+----
+
+Credits: 
+
+(credit: Structural Engineer name: Nat Oppenheimer, Robert Silman Associates)
+(credit: Filmmaker name: Ellen Coons)
+(credit: Mechanical Engineer name: Lars Junghans, University of Michigan)
+(credit: Fabric Consultant name: Wade Wesson, Dazian Creative Fabric Environments)
+(credit: Thanks to name: Christopher Barley, Peter von Buelow, Jeff Goldenson, Matthias Hollwich, Adam Hostetler, Michael Kennedy, Marc Kushner, John McMorrough, Thom Moran, Monica Ponce de Leon and Taubman College of Architecture and Urban Planning, University of Michigan)

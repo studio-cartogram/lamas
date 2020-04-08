@@ -1,0 +1,20 @@
+title: Site
+pages: true
+options:
+  template: true
+fields:
+  title:
+    label: Title
+    type:  text
+  phone:
+    label: Phone Number
+    type:  text
+  email:
+    label: Email
+    type:  text
+  address:
+    label: Address
+    type:  text
+  instagram:
+    label: Instagram
+    type:  text

@@ -1,0 +1,29 @@
+.single {
+    display:flex;
+    flex-flow: row wrap;
+    padding:var(--unitSex);
+    margin:0 calc(var(--unitQuad) * -1);
+    justify-content: space-around;
+
+    & p {
+        text-align:left;
+        position:relative;
+    }
+
+    @media (--viewport-medium) {
+        padding:var(--unitOct);
+        margin:0 calc(var(--unitQuad) * -1);
+    }
+
+}
+
+.single figure {
+    padding:var(--unit);
+    @media (--viewport-medium) {
+        padding:var(--unitDuo);
+    }
+}
+
+.page figure {
+    padding:var(--unitDuo) 0;
+}

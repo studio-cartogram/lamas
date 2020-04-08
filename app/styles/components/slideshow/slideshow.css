@@ -1,0 +1,25 @@
+.slideshow {
+    position: absolute;
+    /* max-width: var(--siteWidth); */
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    height:auto;
+    width:auto;
+}
+
+.slideshow--list {
+    height: 240px;
+    top:auto;
+    right:auto;
+    left:var(--unitTrio); 
+    bottom:var(--unitTrio); 
+    display:none;
+}
+
+/* List Slideshow */
+
+.slideshow--list__slide {
+    text-align:left;
+}

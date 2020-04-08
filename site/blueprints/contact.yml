@@ -1,0 +1,16 @@
+title: Contact
+pages: true
+files:
+  sortable: true
+options:
+  template: true
+fields:
+  title:
+    label: Title
+    type:  text
+  heading:
+    label: heading
+    type:  text
+  text:
+    label: Text
+    type:  textarea

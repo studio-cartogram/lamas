@@ -1,0 +1,22 @@
+.map-container {
+    padding:var(--unitTrio);
+    padding-bottom:0;
+    @media (--viewport-medium) {
+        padding:var(--unitSex);
+        padding-bottom:0;
+    }
+    @media (--viewport-large) {
+        position:absolute;
+        width: 50%;
+        transform:translate(0, -100%);
+    }
+}
+
+.map {
+    height: 350px;
+    width: 100%;
+}
+
+.map img {
+    max-width: inherit !important;
+}

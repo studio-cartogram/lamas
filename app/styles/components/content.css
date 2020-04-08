@@ -1,0 +1,38 @@
+.content {
+    padding-left: var(--unit);
+    padding-right: var(--unit);
+    padding-bottom: var(--unitQuad);
+    padding-top: var(--unitQuad);
+
+    @media (--viewport-medium) {
+        padding-left: var(--unitQuad);
+        padding-right: var(--unitQuad);
+        padding-bottom: var(--unitQuad);
+        padding-top: var(--unitQuad);
+    }
+
+    & h1,
+    & h2,
+    & h3,
+    & h4,
+    & h5,
+    & h6,
+    & p {
+        margin-bottom: var(--unitDuo);
+    }
+
+    & p {
+        max-width: 500px;
+    }
+}
+
+.content__text {
+    padding-bottom: var(--unitSex);
+}
+
+.content__bio {
+    padding-top: var(--unitQuad);
+    padding-bottom: var(--unitQuad);
+}
+
+

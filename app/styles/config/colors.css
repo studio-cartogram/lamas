@@ -1,0 +1,17 @@
+:root {
+    --black: #4e4b4b;
+    --grayLight: rgba(0, 0, 0, 0.05);
+    --gray: rgba(0, 0, 0, 0.2);
+    --grayDark: rgba(0, 0, 0, 0.3);
+    --white: #FFF;
+    --primaryColor: var(--black);
+    --secondaryColor: var(--grayDark);
+    --tertiaryColor: var(--gray);
+    --siteBackground: var(--white);
+    --siteColor: var(--primaryColor);
+    --linkColor: var(--primaryColor);
+    --linkColorActive: var(--primaryColor);
+    --linkColorUnderline: var(--primaryColor);
+    --shadowColor: rgba(0, 0, 0, 0.15);
+}
+

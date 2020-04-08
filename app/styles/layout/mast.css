@@ -1,0 +1,12 @@
+.mast {
+    transition: all var(--timing) var(--easing);
+    min-height: 100px;
+    margin-top: var(--unitDec);
+    @media (--viewport-medium) {
+        margin-top: var(--unitOct);
+    }
+}
+
+body.is-loading .mast {
+    opacity:0;
+}

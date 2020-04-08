@@ -1,0 +1,20 @@
+.loader {
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    height: auto;
+    width: auto;
+    position:fixed;
+    visibility: hidden;
+    transition: opacity calc(var(--timing) * 2) var(--easing), visibility 0s calc(var(--timing) * 2) ;
+    opacity:0;
+    background: var(--siteBackground);
+    z-index:10;
+}
+
+body.is-loading .loader {
+    transition: opacity calc(var(--timing) * 2) var(--easing);
+    opacity:1;
+    visibility:visible;
+}

@@ -1,0 +1,56 @@
+Title: Night Market Eat Food
+
+----
+
+Tagline: A piled aggregation of platonic solids
+
+----
+
+Color: #FEFFCF
+
+----
+
+Location: Toronto, ON
+
+----
+
+Year: 2015
+
+----
+
+Status: Winner Best in Show, 2015
+
+----
+
+Client: The Stop Night Market, Oyster Boy
+
+----
+
+Team: Vivian Lee, James Macgillivray, Clara Syme, Liu Liu, Elaine Chau
+
+----
+
+Types: Competition,Installation
+
+----
+
+Text: A food cart for The Stop Night Market and partnered with Oyster Boy. Playing with tradition and transformation, the cart is envisioned as a piled aggregation of platonic solids, distorted to present false perspectives from various points of view. Once visitors approach the shapes they are revealed to be shallow projections, receding to virtual vanishing points. After being primed with a grey scale shadow rendering, the pieces were dipped in an aqueous marbling tank. The material application transforms the cube, sphere and prism to appear as solid blocks of marble, rotated and suspended around the hidden platform of the cart.
+
+----
+
+Main: 
+
+(picture: nmef-1 extension: jpg class: full )
+(picture: nmef-2 extension: jpg class: half )
+(picture: nmef-3 extension: jpg class: half )
+(picture: nmef-4 extension: jpg class: full )
+(picture: nmef-5 extension: jpg class: half )
+(picture: nmef-6 extension: jpg class: half )
+(picture: nmef-8 extension: jpg class: full )
+
+----
+
+Credits: 
+
+(credit: Photography name: John Smith)
+(credit: Videography name: Jane Doe)

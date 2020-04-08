@@ -1,0 +1,133 @@
+
+/* Typography */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin:0;
+    font-weight:inherit;
+    font-size: 1rem;
+    line-height: 1.2;
+}
+
+.alpha,
+h1 {
+    font-size:var(--fontSizeAlpha);
+    font-weight:var(--fontWeightBold);
+}
+
+.beta,
+h2 {
+    font-size:var(--fontSizeBeta);
+    font-weight:var(--fontWeightBold);
+}
+
+.gamma,
+h3 {
+    font-size:var(--fontSizeGamma);
+    font-weight:var(--fontWeightBold);
+    line-height: 1.4;
+}
+.delta,
+h4 {
+    font-weight:var(--fontWeightBold);
+    font-size:var(--fontSizeDelta);
+    line-height: 1.4;
+    margin-bottom:0;
+}
+
+
+.zeta,
+h6 {
+    font-family: var(--fontFamilySecondary);
+    font-size: calc(12 / var(--fontSizeBase))rem;
+    @media (--viewport-medium) {
+        font-size:var(--fontSizeZeta);
+    }
+}
+
+.is-lined {
+    position: relative;
+    display:block;
+
+    & > a,
+    & > span {
+        position: relative;
+        display:inline;
+        background: var(--siteBackground);
+        z-index:1;
+        padding: 0 var(--unit);
+        margin-left: calc(var(--unit) * -1);
+    }
+
+    &:before {
+        position: absolute;
+        content: '';
+        height: 1px;
+        width: auto;
+        background: currentColor;
+        left:0;
+        right:0;
+    }
+}
+
+.is-lined--strike {
+    &:before {
+        top: 50%;
+    }
+}
+
+h1.is-lined--strike {
+    &:before {
+        left:0;
+        right:0;
+        top: var(--unitDuo);
+        height: 2px;
+        @media (--viewport-medium) {
+            left:-var(--unitQuad);
+            display:block;
+        }
+    }
+}
+
+.is-lined--under {
+    padding-bottom: var(--unit);
+    margin-bottom: var(--unit);
+    &:before {
+        top: 100%;
+        left:0;
+        right:0;
+    }
+
+}
+
+.is-lined--after {
+    display:inline-block;
+    margin-right: var(--unitTrio);
+    padding-right: var(--unitHalf);
+    &:before {
+        left:100%;
+        right: -var(--unitTrio);
+        top: 50%;
+        height: 2px;
+    }
+    & + span {
+        padding-left: var(--unitHalf);
+    }
+
+
+
+}
+
+.is-lined--before {
+    display:inline-block;
+    &:before {
+        right:100%;
+        left: -var(--unitTrio);
+        top: 50%;
+    }
+}
+

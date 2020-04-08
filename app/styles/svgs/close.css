@@ -1,0 +1,7 @@
+.close {
+    position:absolute;
+    right:0;
+    font-weight: var(--fontWeightBold);
+    transform: translate(100%, 0);
+    padding:0 var(--unit) 0 var(--unitDuo);
+}

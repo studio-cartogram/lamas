@@ -1,0 +1,45 @@
+@custom-selector :--enter :hover, :focus, .is-active;
+
+.header__nav {
+    overflow:hidden;
+}
+.nav {
+    text-align:right;
+    margin-left: var(--unit);
+    margin-right: var(--unit);
+    transition: all var(--timing) var(--easing);
+    position:relative;
+
+    & a,
+    & .link {
+        display: inline-block;
+        margin-right: var(--unitDuo);
+        @media (--viewport-medium) {
+            margin-right: var(--unitQuad);
+        }
+    }
+
+    & a:--enter,
+    & .link:--enter {
+    }
+
+
+    & a:last-child,
+    & .link:last-child {
+        margin-right:0;
+    }
+
+}
+
+.nav__loader {
+    position:absolute;
+    transform: translateY(100%);
+    right:0;
+    padding-left: var(--unit);
+    height:100%;
+
+}
+
+body.is-loading .header__nav .nav {
+    transform: translate3d(0, -100%, 0);
+}

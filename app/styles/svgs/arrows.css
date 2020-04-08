@@ -1,0 +1,55 @@
+@svg-load arrow-down url(./arrow-down.svg) {}
+@svg-load arrow-up url(./arrow-up.svg) {}
+@svg-load arrow-left url(./arrow-left.svg) {}
+@svg-load arrow-right url(./arrow-right.svg) {}
+
+:root {
+    --iconXSmall: 8px;
+    --iconSmall: 12px;
+    --iconDDSmall: 16px;
+    --iconMedium: 18px;
+    --iconLarge: 28px;
+}
+
+.arrow {
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 1;
+    transition: all var(--timing) var(--easing);
+    position:relative;
+    display:inline-block;
+    height: var(--iconSmall);
+    width: var(--iconSmall);
+    @media (--viewport-medium) {
+        height: var(--iconMedium);
+        width: var(--iconMedium);
+    }
+}
+
+.link--secondary .arrow {
+    height: var(--iconDDSmall);
+    width: var(--iconDDSmall);
+    @media (--viewport-medium) {
+        height: var(--iconMedium);
+        width: var(--iconMedium);
+    }
+}
+.arrow--down {
+    background-image: svg-inline(arrow-down);
+}
+
+.arrow--up {
+    background-image: svg-inline(arrow-up);
+}
+
+.arrow--right {
+    background-image: svg-inline(arrow-right);
+    height: var(--iconLarge);
+    width: var(--iconLarge);
+}
+
+.arrow--left {
+    background-image: svg-inline(arrow-left);
+    height: var(--iconLarge);
+    width: var(--iconLarge);
+}

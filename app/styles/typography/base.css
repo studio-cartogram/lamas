@@ -1,0 +1,43 @@
+html {
+    font-size: calc(var(--fontSizeBase) - 2)px;
+    line-height:1.6;
+    @media (--viewport-medium) {
+        font-size: var(--fontSizeBase)px;
+    }
+}
+
+blockquote,
+p {
+    margin:0 0 var(--unitDuo);
+}
+
+.small > p,
+.small {
+    @media (--viewport-medium) {
+        font-size: var(--fontSizeSmall);
+    }
+}
+
+.x-small > p,
+.x-small {
+    @media (--viewport-medium) {
+        font-size: var(--fontSizeXSmall);
+    }
+}
+
+blockquote,
+.large > p,
+.large {
+    font-size: var(--fontSizeLarge);
+}
+
+li,
+p {
+    font-size: var(--fontSizeContent);
+}
+
+.meta {
+    color: var(--secondaryColor);
+}
+
+

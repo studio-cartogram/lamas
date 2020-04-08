@@ -1,0 +1,74 @@
+.logo {
+    top:50%;
+    left:50%;
+    right: auto;
+    bottom:auto;
+    transform: translate(-50%, -50%);
+    position: fixed;
+    height:auto;
+    width: auto;
+    z-index:10;
+    pointer-events:none;
+    transition: all var(--timing) var(--easing);
+    top:0%;
+    left:0%;
+    right:0;
+    bottom:0;
+    transform: none;
+}
+
+.logo__letter {
+    display:block;
+    opacity: 0.9;
+    position:absolute;
+    transition: all var(--timing) var(--easing);
+    top:50%;
+    left:50%;
+    height: 50px;
+    width: 50px;
+    @media (--viewport-medium) {
+        height: 100px;
+        width: 100px;
+    }
+}
+
+.logo__letter span {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    font-weight: bold;
+    font-size: 50px;
+    @media (--viewport-medium) {
+        font-size: 80px;
+    }
+}
+
+.logo__letter:nth-child(1) {
+    transform: translateX(-250%) translateY(-50%);
+}
+
+.logo__letter:nth-child(2) {
+    transform: translateX(-150%) translateY(-50%);
+}
+
+.logo__letter:nth-child(3) {
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.logo__letter:nth-child(4) {
+    transform: translateX(50%) translateY(-50%);
+}
+
+.logo__letter:nth-child(5) {
+    transform: translateX(150%) translateY(-50%);
+}
+
+.logo.is-positioned {
+    /* mix-blend-mode: overlay; */
+}
+
+.logo.is-positioned .logo__letter {
+    transform: translateX(0);
+    opacity: 0.4;
+}

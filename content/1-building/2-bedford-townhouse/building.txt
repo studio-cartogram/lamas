@@ -1,0 +1,55 @@
+Title: Bedford Townhouse
+
+----
+
+Client: Private
+
+----
+
+Year: 2016
+
+----
+
+Types: renovation
+
+----
+
+Text: Bedford Townhouse is a top to bottom renovation of a Victorian house in Toronto. The project reconfigured domestic spaces while respecting the landmark heritage status of the building.
+
+----
+
+Main: 
+
+(picture: bedford_02-sm extension: jpg class: full caption: This is a caption)
+(picture: bedford_03-sm extension: jpg class: quarter caption: This is a caption)
+(picture: bedford_04-sm extension: jpg class: quarter caption: This is a caption)
+(picture: bedford_04-sm extension: jpg class: quarter caption: This is a caption)
+(picture: bedford_01-sm extension: jpg class: half caption: This is a caption)
+
+----
+
+Location: Toronto, ON
+
+----
+
+Status: Completed
+
+----
+
+Team: James Macgillivray, Vivian Lee, Vivien Cheng, Gloria Perez, Clara Syme, Dakota Wares-Tani
+
+----
+
+Tagline: Reconfiguring domestic space,  respecting landmark heritage
+
+----
+
+Color: #eed5d2
+
+----
+
+Credits: 
+
+----
+
+Press: 

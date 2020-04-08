@@ -1,0 +1,16 @@
+title: Page
+pages:
+  template:
+    - building
+    - thinking
+    - writing
+files: true
+options:
+  template: true
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  textarea
