@@ -1,0 +1,59 @@
+Title: Nowhere, Now Here
+
+----
+
+Tagline: 
+
+----
+
+Color: #00CD00
+
+----
+
+Location: Toronto, ON
+
+----
+
+Year: 2017
+
+----
+
+Status: Proposal
+
+----
+
+Client: University of Toronto
+
+----
+
+Team: Weihan Vivian Lee, James Macgillivray, Kei Yan Kevin Chan, Grace Chang, Kiefer Savage
+
+----
+
+Types: Competition,Installation
+
+----
+
+Text: LAMAS’ proposal for the Wilson Quad titled “Nowhere, Now Here” creates a new meeting place by a very simple reframing of what is already there. “Nowhere, Now Here” produces a subtle shift in the perception of the tree canopy by suspending a 17 x 20 metre fabric scrim at 8’-0” above ground. The fabric datum separates the space underneath by visually isolating it from the complex image of the leaves above. A ready made structure of 12 safety ladders, commonly used for restocking warehouses, holds the fabric in tension above the ground. The ladders invite passers by to climb through the diaphanous layer and access the place above, a public yet intimate place of fall foliage and comically disembodied heads.
+
+----
+
+Main:
+
+(picture: nwnh-03 extension: jpg class: full)
+(picture: nwnh-04 extension: jpg class: full)
+(picture: nwnh-01 extension: jpg class: full)
+(picture: nwnh-02 extension: jpg class: full)
+(picture: nwnh-05 extension: jpg class: full)
+
+----
+
+Credits: 
+
+----
+
+Press: 
+
+----
+
+Uuid: DFnsq7oHkjvK5QaS

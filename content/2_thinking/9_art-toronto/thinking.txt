@@ -1,0 +1,60 @@
+Title: Art Toronto
+
+----
+
+Location: Toronto, ON
+
+----
+
+Year: 2015
+
+----
+
+Status: Proposal
+
+----
+
+Client: Art Toronto/Informa Canada
+
+----
+
+Team: James Macgillivray, Vivian Lee, Clara Syme
+
+----
+
+Types: Competition
+
+----
+
+Text: Art Toronto invited LAMAS to reconceptualize and design the layout of Art Toronto 2015. The design concept focused on the legibility of the art fair through section and plan based figure making. Section Mountains, Plan Shapes and Tilt-boxes are immediately identifiable spaces that motivate the viewers’ circulation and lead them through the fair and its events.
+
+----
+
+Main:
+
+(picture:at-01-shapes_axo-01 extension:jpg class:half)
+(picture:at-02-shapes_axo-02 extension:jpg class:half)
+(picture:at-07-shapes_view extension:jpg class:full)
+(picture:at-03-squares_axo extension:jpg class:half)
+(picture:at-04-mountains_plan extension:jpg class:half)
+(picture:at-05-squares_view extension:jpg class:full)
+
+----
+
+Tagline: Section mountains, plan shapes and tilt-boxes
+
+----
+
+Color: #C9F4F1
+
+----
+
+Credits: 
+
+----
+
+Press: 
+
+----
+
+Uuid: nC12QzITfmYAz90C

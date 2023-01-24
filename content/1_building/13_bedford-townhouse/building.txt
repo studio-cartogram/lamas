@@ -1,0 +1,70 @@
+Title: Bedford Townhouse
+
+----
+
+Tagline: Reconfiguring domestic space,  respecting landmark heritage
+
+----
+
+Color: #ffccb3
+
+----
+
+Location: Toronto, ON
+
+----
+
+Year: 2015
+
+----
+
+Status: Completed
+
+----
+
+Client: Private
+
+----
+
+Team: James Macgillivray, Vivian Lee, Vivien Cheng, Gloria Perez, Clara Syme, Dakota Wares-Tani
+
+----
+
+Types: Renovation, Residential, Heritage
+
+----
+
+Text: Bedford Townhouse is a top to bottom renovation of a Victorian house in Toronto. The project reconfigured domestic spaces while respecting the landmark heritage status of the building.
+
+----
+
+Main:
+
+(picture: axo_crop-3 extension:jpg class: half)
+(picture: axo_crop-1 extension:jpg class: half)
+(picture: axo_crop-2 extension: jpg class: half)
+(picture: axo_crop-4 extension: jpg class: half)
+(picture: bedford_01 extension: jpg class: full)
+(picture: 02 extension: jpg class: full)
+(picture: 03 extension: jpg class: full)
+(picture: 04 extension: jpg class: full)
+(picture: 05 extension: jpg class: full)
+(picture: 06 extension: jpg class: full)
+(picture: 07 extension: jpg class: half)
+(picture: 08 extension: jpg class: half)
+
+----
+
+Cover: - file://j2DjvVXNDFLTbYxL
+
+----
+
+Credits: 
+
+----
+
+Press: 
+
+----
+
+Uuid: VCgUKc2hl73TsKsd

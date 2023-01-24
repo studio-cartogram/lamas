@@ -17,7 +17,7 @@ $types = $p->tags()->split();
 
 echo '<ul class="writing__control list list--sep ">';
 
-if($types[0]) :
+if (is_iterable($types)):
 
     foreach ($types as $type): 
 

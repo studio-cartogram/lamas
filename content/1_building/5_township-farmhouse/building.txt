@@ -1,0 +1,125 @@
+Title: Townships Farmhouse
+
+----
+
+Tagline: Constrained geometrical unity
+
+----
+
+Color: #D1BAB7
+
+----
+
+Location: North Hatley, QC
+
+----
+
+Year: 2017
+
+----
+
+Status: Completed
+
+----
+
+Client: Private
+
+----
+
+Team: Vivian Lee, James Macgillivray, Scott Claassen, Pooja Dalal, Scott  Fredricks, Dan Kobran, Nora Leon, Jennifer Ng
+
+----
+
+Types: New Construction,Residential
+
+----
+
+Text:
+
+In the eastern townships of Quebec, the courtyard configuration for barns has been used since the mid 19th century for convenience of access and for shelter against the wind. 
+
+For this working farm, our first design decision was to take the concept of the “aisle” from barns—essentially a thoroughfare for bringing in materials and livestock--and repurpose it outwards to capture views from the surrounding fields. Because the house is arranged in a courtyard formation it goes back in on itself and the interior spaces can be superimposed onto the background of the landscape in unexpected compositions.
+
+----
+
+Main:
+
+(picture: e09 extension: jpg class: half)(picture: i03 extension: jpg class: half)
+(picture: i01 extension: jpg class: full)
+(picture: 0476b extension: jpg class: half)
+(picture: ext22 extension: jpg class: half)
+(picture: e04 extension: jpg class: full)
+(picture: end0866 extension: jpg class: full)
+
+----
+
+Press:
+
+- 
+  source: Dwell, July/Aug 2017
+  link: >
+    https://www.dwell.com/home/townships-farmhouse-b31faa78
+- 
+  source: >
+    Recipient of Architizer 2017 A+ Award,
+    Residential Private House XL Category
+  link: >
+    http://awards.architizer.com/winners-gallery/
+- 
+  source: >
+    Dezeen, "LAMAS builds contemporary
+    Canadian farmhouse with reclaimed
+    timber"
+  link: >
+    https://www.dezeen.com/2017/07/29/townships-farmhouse-lamas-features-perpendicular-gabled-volumes-clad-reclaimed-timber-architecture/
+- 
+  source: ArchDaily
+  link: >
+    http://www.archdaily.com/876517/townships-farmhouse-lamas
+- 
+  source: >
+    Decoist "Townships Farmhouse in Quebec
+    Embraces Modernity Wrapped in Rustic
+    Sheen"
+  link: >
+    https://www.decoist.com/modern-farmhouse-north-hatley-lamas/
+- 
+  source: Gessato Blog
+  link: >
+    https://www.gessato.com/townships-farmhouse-lamas/
+- 
+  source: >
+    Curbed "Modern farmhouse updates the
+    Canadian homestead"
+  link: >
+    https://www.curbed.com/2017/7/31/16071310/townships-farmhouse-lamas-montreal-quebec
+- 
+  source: 'Journal du Design: Townships Farmhouse, ferme moderne à North Hatley au Canada par LAMAS'
+  link: >
+    http://www.journal-du-design.fr/architecture/townships-farmhouse-ferme-moderne-north-hatley-au-canada-par-lamas-94001/
+- 
+  source: 'Allnews Mag: Old Inspirations, Modern Aspirations! The Townships Farmhouse By LAMAS'
+  link: >
+    http://allnews-mag.blogspot.ca/2017/08/old-inspirations-modern-aspirations.html
+- 
+  source: Sequences Bois, 'Cadres agrestes'
+  link: >
+    https://www.sequencesbois.fr/cadres-agrestes-a406.html
+
+- 
+  source: Archdaily
+  link: >
+    https://www.archdaily.com/876517/townships-farmhouse-lamas
+
+- 
+  source: CNN "Rustic yet modern, these converted barns are a creative’s dream"
+  link: >
+    https://www.cnn.com/2019/03/29/business/living-in-barns
+
+----
+
+Credits: Photos : Stéphane Groleau / Laetitia Boudaud
+
+----
+
+Uuid: r5LipjZvwVCA299Y

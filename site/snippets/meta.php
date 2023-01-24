@@ -11,9 +11,8 @@ echo '<div class="matrix">';
 
     echo ($page->address() != '' ? '<div class="matrix__section matrix__section--full"><span class="is-lined is-lined--under make-block zeta meta">Visit</span><p class="small">' . $page->address() . '<br/><a target="_blank" class="no-barba" href="http://maps.google.com/?q=' . $page->address() . '">Get Directions</a></p></div>' : '');
 
-    echo ($page->status() != '' ? '<div class="matrix__section matrix__section--short matrix__section--full"><h4><span class="is-lined is-lined--after">Status</span><span>' . $page->status() . '</span></h4></div>' : '');
-
-
+    echo ($page->phase() != '' ? '<div class="matrix__section matrix__section--short matrix__section--full"><h4><span class="is-lined is-lined--after">Status</span><span>' . $page->phase() . '</span></h4></div>' : '');
+    
     echo ($page->year() != '' ? '<div class="matrix__section"><span class="is-lined is-lined--under make-block zeta meta">Year</span><p class="small">' . $page->year() . '</p></div>' : '');
 
     echo ($page->date() != '' ? '<div class="matrix__section"><span class="is-lined is-lined--under make-block zeta meta">Date</span><p class="small">' . $page->date('jS F, Y') . '</p></div>' : '');

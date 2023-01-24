@@ -1,0 +1,65 @@
+Title: Barn and Farmhouse Studies
+
+----
+
+Tagline: 
+
+----
+
+Color: #d1e0e0
+
+----
+
+Location: North Hatley, QC
+
+----
+
+Year: 2012
+
+----
+
+Status: Proposal
+
+----
+
+Client: Private
+
+----
+
+Team: Vivian Lee, James Macgillivray, Justin Kollar, Patrick Ethen, Scott Claassen, Pooja Dalal, Scott Fredricks, Dan Kobran, Nora Leon, Jennifer Ng
+
+----
+
+Types: Residential,New Construction
+
+----
+
+Text:
+
+“Big house, little house, back house, barn” is a New England farmhouse configuration that dates back to the 18th century. This farmhouse design modifies the connected farm by replacing the sequential aggregation with one of coincident interference. Several houses all exist simultaneously and in the same place. At the moments of greatest agglomeration the building plays host to a variety of competing volumes.
+This farmhouse starts with a basic courtyard configuration that is arranged in an asymmetrical pinwheel. The volumes are stitched together by a system of axial views to the landscape. These axes are the organizational principle of both the internal arrangement and facade design. Large pocket doors on the ground floor as well as moving fence panels open up the central axis of the courtyard like the dooryard and aisle of a traditional barn.
+
+----
+
+Main:
+
+(picture: 06_t1 extension: jpg class: full)
+(picture: 04_t1 extension: jpg class: full)
+(picture: 05_t1 extension: jpg class: half)
+(picture: tsiii-_06_08-combined extension: jpg class: half)
+(picture: tsii_04 extension: jpg class: full)
+(picture: tsii_02 extension: jpg class: half)
+(picture: tsiiii_9-10 extension: jpg class: half)
+(picture: tsiii_01 extension: jpg class: full)
+
+----
+
+Credits: 
+
+----
+
+Press: 
+
+----
+
+Uuid: YeU2Xs50ZFMeUdCa

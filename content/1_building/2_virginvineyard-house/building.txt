@@ -1,0 +1,76 @@
+Title: Virgin Vineyard House
+
+----
+
+Tagline: 
+
+----
+
+Color: #4E79E2
+
+----
+
+Location: North Hatley, QC
+
+----
+
+Year: 2022
+
+----
+
+Status: Completed
+
+----
+
+Client: Private
+
+----
+
+Team: James Macgillivray, Weihan Vivian Lee, Andrea Rodriguez Fos, Cassandra Rota, Phil Carr-Harris, Kara Verbeek
+
+----
+
+Types: New Construction, Residential
+
+----
+
+Text: Situated between an old farm road and a working hillside vineyard, this long house is attached to a stone wall inspired by the local agricultural landscape. It houses three generations of a family, with spaces to come together as well as functional secluded areas. A simple geometric move, a twist in plan, orients the walls toward the lake below, making each room a unique volume, collected under one roof. The long wall unfurls compositional events: aperture, window, chimney, entry, courtyard. Locally sourced materials and craftsmanship highlight the joining of wood and gathered stone with minimal disturbance to the original site.
+
+----
+
+Main:
+
+(picture: Virgin_1_web extension: jpg class: half)
+(picture: Virgin_2_web extension: jpg class: half)
+(picture: Virgin_3_web extension: jpg class: third)
+(picture: Virgin_4_web extension: jpg class: third)
+(picture: Virgin_5_web extension: jpg class: full)
+(picture: Virgin_6_web extension: jpg class: full)
+(picture: Virgin_7_web extension: jpg class: third)
+(picture: Virgin_8_web extension: jpg class: third)
+(picture: Virgin_9_web extension: jpg class: full)
+(picture: Virgin_10_web extension: jpg class: half)
+(picture: Virgin_11_web extension: jpg class: half)
+(picture: Virgin_12_web extension: jpg class: half)
+(picture: Virgin_13_web extension: jpg class: half)
+(picture: Virgin_14_web extension: jpg class: full)
+(picture: Virgin_17_web extension: jpg class: half)
+(picture: Virgin_encyclopediedelamaisonquebecoise_web extension: jpg class: half)
+(picture: Virgin_15_web extension: jpg class: full)
+(picture: Virgin_16_web extension: jpg class: full)
+
+----
+
+Credits:
+
+Photography: Felix Michaud
+Structural and Civil Engineer:Eric St George Structures et Civile
+Mechanical Engineer: Nicolas Ferland, Génécor Experts-Conseils Inc.
+Electrical: Environnement Électronique
+Contractor: Alexandre Lessard, Construction Yves Lessard
+Millwork: Eric Veraquin, Ebénisterie Renova
+Stone: Guy Poirier, Maçonnerie Desrosiers de l'Estrie inc.
+
+----
+
+Uuid: u937l75bNEqk3J0g

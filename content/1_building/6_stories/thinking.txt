@@ -1,0 +1,66 @@
+Title: Stories Bookshop
+
+----
+
+Text: The client pictured the space being reminiscent of the classic American one room schoolhouse. The cabinetry and millwork pieces are exceedingly simple, but have been made lighter through the use of arched and quarter arched cut outs reminiscent of Shaker step ladders, hutches and shelves. The design of the store initiates a perceptual shift in the viewer. The color scheme is geared towards an optical effect. When you enter the store, everything appears airy and bright white, but when you get further in and the sidedness of the shelves becomes apparent, the entire scene is very vivid and colorful. You leave, seemingly, from a different space than the one which you entered. Reimagining the bright and airy feel of the one room schoolhouse in a Brooklyn bookshop is as much about historic allusions as it is about recreating the imaginative life of the young customer, one of surprise and discovery.
+
+----
+
+Tagline: Historic allusions, surprise and discovery.
+
+----
+
+Color: #cce6ff
+
+----
+
+Location: Brooklyn, NY
+
+----
+
+Year: 2016
+
+----
+
+Status: Completed
+
+----
+
+Client: Stories Bookshop + Storytelling Lab
+
+----
+
+Team: James Macgillivray, Vivian Lee, Liu Liu, Caterina Cuda, Miriam Wierzchoslawska, Mark Kurzawainski, Carolina Mellado
+
+----
+
+Types: Retail,Furniture
+
+----
+
+Main: 
+
+(picture: storiesbk_01 extension: jpg class: full)
+(picture: shelf-paint-small extension: gif class: third)
+(picture: reflected-view extension: jpg class: full)
+(picture: cube-paint-small extension: gif class: third)
+(picture: jack-and-jill-small extension: gif class: third)
+(picture: stories_07 extension: jpg class: full)
+(picture: looking-out-smaller extension: jpg class: full)
+(picture: jb16545 extension: jpg class: full)
+
+----
+
+Credits: 
+
+Contractor: Beckman Studio Design Build, Inc.
+Photography: Jane Beiles Photography
+
+----
+
+Press: 
+
+- 
+  source: |
+    Featured in Architect's Newspaper "Whimsical Shaker"
+  link: 'https://archpaper.com/2016/12/stories-bookshop-storytelling-lab-lamas/#gallery-0-slide-0'

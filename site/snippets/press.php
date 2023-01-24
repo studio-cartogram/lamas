@@ -17,7 +17,11 @@ foreach($page->press()->toStructure() as $press):
 
             echo '<div class="press__image">';
 
-                echo '<img src="' . thumb($image, array('width' => 400, 'crop' => true))->url() . '" alt="' . $press->source() . '" />';
+
+                    // echo '<img src="' . thumb($image, array('width' => 400, 'crop' => true))->url() . '" alt="' . $press->source() . '" />';
+
+                    echo '<img src="' . $image->thumb($image, array('width' => 400, 'crop' => true))->url() . '" alt="' . $press->source() . '" />';
+
 
             echo '</div>';
 

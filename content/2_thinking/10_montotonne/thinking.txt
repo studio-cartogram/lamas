@@ -1,0 +1,70 @@
+Title: Montotonne Barchessa
+
+----
+
+Tags:
+
+proposal, hospitality----
+
+Location: Marches, Italy----
+
+Year: 2010
+
+----
+
+Status: Proposal
+
+----
+
+Team: Wei-Han Vivian Lee, James Macgillivray, Tarlton Long, Justin Kollar, Patrick Ethen and Scott Claasen
+
+----
+
+Types: Residential,Proposal
+
+----
+
+Main:
+
+(picture: MTT-01 extension: jpg class: full)
+(picture: MTT-06 extension: jpg class: half)
+(picture: MTT-03 extension: jpg class: half)
+(picture: MTT-04-plan extension: jpg class: full)
+(picture: MTT-05 extension: jpg class: full)
+(picture: MTT-02 extension: jpg class: full)
+
+----
+
+Tagline: 
+
+----
+
+Text: A bed and breakfast near a small town in the Marches, in Italy. The project takes the form of the barchessa, an agricultural appendage of 16th Century Venetian villas. A barchessa without a villa, the project enacts a period in the nineteenth century when, following a tax on villas, many of the main structures were demolished, leaving only the rustic wings of the barchessa in the landscape. This historical reference is complicated by its programmatic mutation from empty storage to the individuated privacy of rooms.
+
+----
+
+Credits: 
+
+----
+
+Press: 
+
+----
+
+Color: #FAC0FF
+
+----
+
+Location: Mototonne, Italy
+
+----
+
+Year: 2010
+
+----
+
+Client: Private
+
+----
+
+Uuid: ghsSnA8WG8C9X5Mz

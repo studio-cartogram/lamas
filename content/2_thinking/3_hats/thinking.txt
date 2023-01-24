@@ -1,0 +1,53 @@
+Title: Hats, Ceilings, and Rooms
+
+----
+
+Tagline: Misalignment of ceiling and rooms
+
+----
+
+Color: #AABBCC
+
+----
+
+Location: 
+
+----
+
+Year: 2017
+
+----
+
+Status: In Progress
+
+----
+
+Client: 
+
+----
+
+Team: Vivian Lee, Grace Chang, Miriam Wierzchoslawska, Ella den Elzen
+
+----
+
+Types: 
+
+----
+
+Text: More info soon...
+
+----
+
+Main: (picture:rotunda1 extension:jpg class:full)
+
+----
+
+Credits: 
+
+----
+
+Press: 
+
+----
+
+Uuid: yn8JCzAkzYe7IMYa

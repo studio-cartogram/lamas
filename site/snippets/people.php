@@ -1,8 +1,10 @@
 <?php 
 
-$people = $page->children()->visible();
+$people = $page->children()->listed();
 
 echo '<div class="row ">';
+
+if (is_iterable($people)):
 
 foreach($people as $p):
 
@@ -13,6 +15,8 @@ foreach($people as $p):
     echo '</div>';
 
 endforeach;
+
+endif;
 
 echo '</div>';
 

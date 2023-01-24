@@ -1,0 +1,174 @@
+Title: Us
+
+----
+
+Heading: Lee And Macgillivray Architecture Studio
+
+----
+
+Color: #FFF0F5
+
+----
+
+Practice: 
+
+----
+
+Press:
+
+- 
+  source: "Architect's Newspaper"
+  link: >
+    https://www.archpaper.com/2022/12/announcing-the-winners-of-ans-2022-best-of-design-awards/
+  description: |
+    FOLLY TREE ARBORETUM WINS ARCHITECT'S NEWSPAPER "BEST OF DESIGN" AWARD FOR UNBUILT CULTURAL CIVIC EDUCATION
+    “Strangeness abounds in this proposal to add on to an existing barn. The design, with its lofted shingle roof, is a hybrid cultivated from architectural references like New England barns, Gwathmey modernism, and contemporary formalisms. The resulting spaces, expertly rendered, are weird and compelling.” —Jack Murphy
+  files:
+    - file://fIkMsVZIQd209SZj
+  image: AN_FollyTree-1.jpg
+- 
+  source: "Architect's Newspaper"
+  link: >
+    https://www.archpaper.com/2022/12/announcing-the-winners-of-ans-2022-best-of-design-awards/
+  description: |
+    TORONTO TOWNHOUSE WINS ARCHITECT'S NEWSPAPER "BEST OF DESIGN" AWARD FOR INTERIOR RESIDENTIAL
+    “The elegant and clever figural void strategy integrates circulation and light and is literally a breath of fresh air into the otherwise dark townhouse typology. Soft geometric transformations of the void across the vertical spaces creates moments of domestic wonder.” —Tei Carpenter
+  files: [ ]
+  image: AN_TORONTOTOWNHOUSE_12.jpg
+- 
+  source: Domus Magazine
+  link: >
+    https://www.daniels.utoronto.ca/news/2020/04/03/lamas-named-one-domus-magazines-best-architecture-firms-2020
+  description: >
+    LAMAS named "TOP 50 BEST ARCHITECTURE
+    FIRMS 2020" by Domus
+  files: [ ]
+  image: domuslogo.jpg
+- 
+  source: >
+    2020 Frame Awards, "Here’s why experts
+    agree this Toronto bar gives a vision
+    into future hospitality"
+  link: >
+    https://www.frameweb.com/news/avling-lamas-fa2020
+  description: |
+    AVLING WINS BEST BAR OF THE YEAR, FRAME AWARDS 2020
+    
+    "In my heart I feel like Avling is more important for now. It’s a forward-looking idea of how things in the future will be used." - Caroline Cundall, director of interior design for Europe at InterContinental Hotels Group
+    
+    "The informality was a very conscious aesthetic applied to the notion and intent of the place. And that is very difficult to achieve." - Space Copenhagen co-founder Peter Bundgaard Rützou
+  files: [ ]
+  image: framedesignaward_logo.jpg
+- 
+  source: Frameweb
+  link: >
+    https://www.frameweb.com/news/avling-kitchen-and-brewery-lamas
+  description: '"The designers managed to turn the seemingly inhospitable space into a haven of hospitality: it now hosts a restaurant, rooftop garden and enough basement storage for multiple 4.8-m-tall, 4,000-litre fermentation tanks."'
+  files: [ ]
+  image: frameweb-banner.jpg
+- 
+  source: CNN Business
+  link: >
+    https://www.cnn.com/2019/03/29/business/living-in-barns/index.html
+  description: >
+    Vivian and James are interviewed on CNN
+    Business for Townships Farmhouse!
+  files: [ ]
+  image: cnn-business.jpg
+- 
+  source: International AR House Awards 2018
+  link: >
+    https://www.architectural-review.com/awards/ar-house/shortlist-for-the-ar-house-awards-2018-announced/10031846.article
+  description: 'Townships Farmhouse listed as one of sixteen best international houses by *The Architecture Review*'
+  files: [ ]
+  image: ar-house-logo.jpg
+- 
+  source: Designlines
+  link: >
+    http://designlinesmagazine.com/issue-2-2018/
+  description: >
+    "With a strong mix of academic theory
+    and practical expertise, the firm
+    created a bright, beautiful and
+    functional living space in a historic
+    Annex house."
+  files: [ ]
+  image: designlines.jpg
+- 
+  source: Dwell
+  link: >
+    https://www.dwell.com/article/ghost-in-the-shell-6db3a0e0
+  description: >
+    "An Artist and Farmer Work With a
+    Toronto-Based Studio to Build a
+    Barn-Inspired Home."
+  files: [ ]
+  image: dwell_townships-farmhouse-cropped.jpg
+- 
+  source: Architect Magazine "Next Progressives"
+  link: >
+    http://www.architectmagazine.com/practice/lamas_o
+  description: >
+    "This Toronto-based duo has an eye for
+    optical illusions, hydrographics, and
+    geometric forms."
+  files: [ ]
+  image: next-progressives-photo.jpg
+- 
+  source: Architizer
+  link: >
+    http://awards.architizer.com/winners-gallery/?type=50
+  description: >
+    "The architects of this large home in
+    rural Canada blended spatial principles
+    of an age-old typology—the traditional
+    barn—with contemporary materials and
+    beautifully considered construction
+    details."
+  files: [ ]
+  image: architizer-award-jpg.jpg
+- 
+  source: Architect R+D Award 2011
+  link: >
+    http://www.architectmagazine.com/awards/r-d-awards/hair-spikes-cattail-and-turkeyfoot_o
+  description: |
+    Juror William Massie praised the overall analysis as “extending thoughts of materials and the history and science of building.”
+    
+    “What I really liked about this was this notion of digital fabrication and handcraft coming together,...it is an interesting integration of old methods and new ways of thinking that could, in fact, overlap to other aspects of craft and building.”
+    - Sylvia Smith
+  files: [ ]
+  image: combined-sml-sq.jpg
+
+----
+
+Address: 
+
+----
+
+People: Missy Ablin, Elaine Chau, Scott Claassen, Pooja Dalal, Patrick Ethen, Scott Fredricks, Andrea Kamilaris, Daniel Kobran, Soonjae Kwon, Liu Liu, Nora Leon, Tarlton Long, Owen Maher, Roya Mottahedeh, Isaac Ng, Jennifer Ng, Le Nguyen, Elizabeth Nichols, Max Obata, Gloria Perez, Clara Syme, Dakota Wares-Tani, Caterina Cuda, Carolina Mellado, Miriam Wierzchoslawska, Mark Kurzawinski, Ella den Elzen, Kiefer Savage, Kevin Chen, Grace Chang, Fahim Shahreer, Kevin Chan, Miranda Fay, Dylan Johnston, Dimah Ghazal, Ron Noble, Cassandra Rota, Andrea Rodriguez Fos, Phil Carr-Harris, Samiha Meem
+
+----
+
+Text:
+
+LAMAS is an award winning architecture studio registered in the US and Canada. We have worked in a range of scales, from ground-up residential houses to manufacturing and commercial spaces. We are practitioners and academics, equally invested in pragmatics and discursive research. Together with our energetic staff, we explore ornament, color, optical illusions, and craft traditions with advanced technology.
+
+LAMAS was a 2014 finalist for MoMA PS1 Young Architects Program. We were named “Next Progressives” by Architect Magazine in 2017. Our work has won the 2017 Architizer+ Award, 2011 R+D Award and has been cited by Dwell Magazine, I.D. Magazine, and ACSA Faculty Design Awards. Our practice is backed by 16 years of combined experience as project managers for SHoP Architects and Gluck+. We have designed and led those teams to earn P/A Awards and the 2013 National AIA Housing Award. 
+
+LAMAS was founded by (link: https://docs.google.com/document/d/1OTuDdku1YVjwDUSCNuomXflaMn49qxcbG38-xQK4iPs/edit?usp=sharing text:  Vivian Lee) and (link: https://docs.google.com/document/d/192DvZ2uwwjm7ffkIlU8QHOgAOUcDmRQXSAeUtdkYnb8/edit?usp=sharing text: James Macgillivray).
+
+----
+
+Main: (picture: l-0768web extension:  jpg)
+
+----
+
+Hashtag: 
+
+----
+
+Map: https://www.google.ca/maps/place/192+Spadina+Ave,+Toronto,+ON+M5T/@43.6499796,-79.3997117,17z/data=!4m13!1m7!3m6!1s0x882b34dca6278147:0x71b3c5a4ec03fca7!2s192+Spadina+Ave,+Toronto,+ON+M5T!3b1!8m2!3d43.6499796!4d-79.397523!3m4!1s0x882b34dca6278147:0x71b3c5a4ec03fca7!8m2!3d43.6499796!4d-79.397523
+
+----
+
+Uuid: fGXSwcoFkAyV6NxI

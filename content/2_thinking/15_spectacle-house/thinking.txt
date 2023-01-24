@@ -1,0 +1,57 @@
+Title: Spectacle House
+
+----
+
+Location: Kent, CT
+
+----
+
+Year: 2013
+
+----
+
+Status: Proposal
+
+----
+
+Client: Private
+
+----
+
+Team: James Macgillivray, Wei-Han Vivian Lee, Jennifer Komorowski, Nora Leon, Jennifer Ng, Max Obata
+
+----
+
+Types: Residential,New Construction
+
+----
+
+Text: The house occupies a difficult site between a protected wetland and an old summer camp on a lake in western Connecticut. It opens up to views of the lake and woods alternately with a stepped form in plan and section; the walls change direction based on the predominant views. The lower level displays the excavation of table rock with light from the kitchen greenhouse above.
+
+----
+
+Main:
+
+(picture:sh-01 extension:jpg class:half)
+(picture:sh-02 extension:jpg class:half)
+(picture:sh-03 extension:jpg class:full)
+
+----
+
+Tagline: 
+
+----
+
+Color: #E1F5C4
+
+----
+
+Credits: 
+
+----
+
+Press: 
+
+----
+
+Uuid: cCL2gIvBWZTCDo0J

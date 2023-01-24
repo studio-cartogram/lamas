@@ -4,23 +4,25 @@ $date = null;
 
 echo '<div class="scene__element scene__element--fadein page--writing ">';
 
-foreach($children->sortBy('date', 'desc') as $p):
 
-    echo '<div class="row writing">';
+    foreach(($pages->children())->sortBy('date', 'desc') as $p):
 
-    if($date === null || $date !== $p->date('Y')) :
+        echo '<div class="row writing">';
 
-        $date = $p->date('Y');
+        if($date === null || $date !== $p->date('Y')) :
 
-        echo '<div class="writing__date"><span class="zeta">' . $date . '</span></div>';
+            $date = $p->date()->toDate('Y');
 
-    endif;
+            echo '<div class="writing__date"><span class="zeta">' . $date . '</span></div>';
 
-    snippet('writing', array('p' => $p));
+        endif;
 
-    echo '</div>';
+        snippet('writing', array('p' => $p));
 
-endforeach;
+        echo '</div>';
+
+    endforeach;
+
 
 echo '</div>';
 ?>

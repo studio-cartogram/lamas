@@ -1,0 +1,59 @@
+Title: Perfection Pantheon
+
+----
+
+Location: Toronto, ON
+
+----
+
+Year: 2015
+
+----
+
+Client: Private
+
+----
+
+Team: Vivian Lee, Clara Syme
+
+----
+
+Types: Lighting,In Progress
+
+----
+
+Text: Inspired by Chinese “rice grain” porcelain, these prototypes for light fixtures play on the variable thickness of the ceramic medium to provide varying degrees of translucency. Just as Chinese ceramicists used the shape of a rice grain for indented portions of their bowls, the shapes pressed into the interior of the lampshades push the ceramic medium to its minimum thickness, allowing light from the bulb to escape through the shade and telegraph the shape of interior to exterior. In the case of the Pantheon model of the light, this results in a reversal whereby the incident light of the occulus that we are used to seeing reflecting off the square coffers creates a glowing gradient of the square shapes on the exterior. The Perfection model resurrects the outlines of a shape based board game from the 1980s forcing the coffered ceiling towards a reading based on pareidolia.
+
+----
+
+Main:
+
+(picture:L-01 extension: jpg class: full)
+(picture:L-02 extension:jpg class:half)
+(picture:L-03 extension:jpg class:half)
+(picture:L-05 extension:jpg class:half)
+(picture:L-04 extension:jpg class:half)
+
+----
+
+Tagline: 
+
+----
+
+Color: #C9F4F1
+
+----
+
+Credits: 
+
+----
+
+Press: 
+
+----
+
+Status: In Progress
+
+----
+
+Uuid: bU3jmeuZcSDUzI5R

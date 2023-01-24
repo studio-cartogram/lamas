@@ -1,0 +1,77 @@
+Title: Toronto Townhouse
+
+----
+
+Tagline: 
+
+----
+
+Color: #dbac3a
+
+----
+
+Location: Toronto, ON
+
+----
+
+Year: 2020
+
+----
+
+Status: Completed
+
+----
+
+Client: Private
+
+----
+
+Team: James Macgillivray, Weihan Vivian Lee, Ron Noble, Cassandra Rota
+
+----
+
+Types: Renovation,Residential
+
+----
+
+Text: A gut renovation of a typical Toronto semi-attached Townhouse. The design focused on a geometric lightwell that organized the domestic spaces, starting at the kitchen cabinetry and ending at the children’s play space. The geometry climbs through the four stories reverberating curves through plan and elevation, describing a dramatic void that also conceals necessary bulkheads.
+
+----
+
+Main:
+
+(picture: macpherson_1_web extension: jpg class: half)
+(picture: macpherson_2_web extension: jpg class: half)
+(picture: macpherson_3_web extension: jpg class: full)
+(picture: macpherson_4_web extension: jpg class: half)
+(picture: macpherson_5_web extension: jpg class: half)
+(picture: macpherson_section extension: jpg class: half)
+(picture: macpherson_6_web extension: jpg class: full)
+(picture: macpherson_7_web extension: jpg class: half)
+(picture: macpherson_8_web extension: jpg class: half)
+(picture: macpherson_9_web extension: jpg class: full)
+(picture: macpherson_10_web extension: jpg class: full)
+
+----
+
+Press:
+
+- 
+  source: Architects Newspaper Best of Design Interior-Residential, 2022
+  link: >
+    https://www.archpaper.com/2022/12/announcing-the-winners-of-ans-2022-best-of-design-awards/
+
+----
+
+Credits:
+
+Photography: Felix Michaud
+Structural Engineer:Honeycomb Engineering
+Mechanical Engineer: Hayward Design
+Contractor: sKa Construction, Andy Veroutis
+Landscape: North Design Office
+Millwork: Olympic Kitchens
+
+----
+
+Uuid: l5Q0P9alzZhbcYDw

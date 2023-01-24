@@ -1,0 +1,59 @@
+Title: Gooseberry Cove
+
+----
+
+Location: Gooseberry Cove, NF
+
+----
+
+Year: 2012
+
+----
+
+Status: Proposal
+
+----
+
+Client: Private
+
+----
+
+Team: James Macgillivray, Wei-Han Vivian Lee, Patrick Ethen
+
+----
+
+Types: Competition
+
+----
+
+Text: The proposed lookout is situated at the juncture of an inland stream and a wide shallow bay. The structure is simple; volumes drawn from views of the surrounding landscape and migratory birds intersect to create the space of rooms. The soaring line of a seam between two surfaces traverses the ceiling like a migrating bird.
+
+----
+
+Main:
+
+(picture:gc-01 extension:jpg class:full)
+(picture:gc-02 extension:jpg class:half)
+(picture:gc-03 extension:jpg class:half)
+(picture:gc-04 extension:jpg class:half)
+(picture:gc-05 extension:jpg class:half)
+
+----
+
+Tagline: 
+
+----
+
+Color: #F299E8
+
+----
+
+Credits: 
+
+----
+
+Press: 
+
+----
+
+Uuid: Z8CccHyWSfYogYvU

@@ -1,5 +1,7 @@
 <?php
 
+// this is the slideshow
+
 echo '<div id="homemenu" class="scene__element scene__element--fadein homemenu ">';
 
     echo '<div id="js-swiper-homemenu-images" class="swiper-container slideshow slideshow--images">';
@@ -8,19 +10,14 @@ echo '<div id="homemenu" class="scene__element scene__element--fadein homemenu "
 
         foreach($children as $p):
 
-            echo '<div class="swiper-slide slideshow--image__slide" data-hash="' . $p->uid() . '">';
+                echo '<div class="swiper-slide slideshow--image__slide" data-hash="' . $p->uid() . '">';
 
-            snippet('swiper-image', array('p' => $p));
+                snippet('swiper-image', array('p' => $p));
 
-            echo '</div>';
+                echo '</div>';
 
-        endforeach;
-            //
-            // echo '<div class="swiper-slide slideshow--image__slide" data-hash="next">';
-            //
-            // echo '&nbsp;';
-            //
-            // echo '</div>';
+            endforeach;
+
 
         echo '</div>';
 
@@ -30,21 +27,16 @@ echo '<div id="homemenu" class="scene__element scene__element--fadein homemenu "
 
         echo '<div class="swiper-wrapper">';
 
+
         foreach($children as $p):
 
-            echo '<div class="swiper-slide slideshow--text__slide" data-hash="' . $p->uid() . '">';
+                echo '<div class="swiper-slide slideshow--text__slide" data-hash="' . $p->uid() . '">';
 
-            snippet('swiper-text', array('p' => $p));
+                snippet('swiper-text', array('p' => $p));
 
-            echo '</div>';
+                echo '</div>';
 
-        endforeach;
-
-            // echo '<div class="swiper-slide slideshow--text__slide" data-hash="next">';
-            //
-            // echo '&nbsp;';
-            //
-            // echo '</div>';
+            endforeach;
 
         echo '</div>';
 
@@ -58,39 +50,37 @@ echo '<div id="homemenu" class="scene__element scene__element--fadein homemenu "
 
         $count = 0;
 
+
         foreach($children as $p):
 
-            if($count == 0) :
+                if($count == 0) :
 
-                echo '<div class="swiper-slide">';
+                    echo '<div class="swiper-slide">';
 
-            endif;
+                endif;
 
-            $count++;
+                $count++;
 
-            if($count % 14 == 0) :
+                if($count % 14 == 0) :
 
-                echo '<div class="link--primary zeta swiper-nav-next link link--with-icon"><span class="link__icon arrow icon--small arrow--down"></span>More</div>';
-            
-                echo '</div>';
+                    echo '<div class="link--primary zeta swiper-nav-next link link--with-icon"><span class="link__icon arrow icon--small arrow--down"></span>More</div>';
+                
+                    echo '</div>';
 
-                echo '<div class="swiper-slide">';
+                    echo '<div class="swiper-slide">';
 
-                echo '<div class="link--primary zeta swiper-nav-prev link link--with-icon"><span class="link__icon arrow icon--small arrow--up"></span>Back</div>';
+                    echo '<div class="link--primary zeta swiper-nav-prev link link--with-icon"><span class="link__icon arrow icon--small arrow--up"></span>Back</div>';
 
-            endif;
+                endif;
 
-            snippet('swiper-nav-item', array('p' => $p));
+                snippet('swiper-nav-item', array('p' => $p));
 
-            endforeach;
+                endforeach;
 
 
             echo '</div>';
 
         echo '</div>';
-
-        // echo '<div class="zeta swiper-nav-prev"><span class="arrow arrow--left"><span class="">more</span></span></div>';
-
 
         echo '<div class="swiper-nav-pagination"></div>';
 
