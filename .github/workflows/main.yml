@@ -15,6 +15,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@3.0.0
       with:
         ftp-server: ftp.lamas.us
-        ftp-username: fionaftp@lamas.us
+        ftp-username: developer@lamas.us
         ftp-password: ${{ secrets.FTP_PASSWORD }}
-        target: "/public_html"
