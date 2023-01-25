@@ -17,7 +17,10 @@ for more information: http://getkirby.com/license
 
 return [
   'debug'  => true,
-  'home' => 'building'
+  'home' => 'building',
+  'panel' =>[
+    'install' => true
+  ],
 ];
 
 
