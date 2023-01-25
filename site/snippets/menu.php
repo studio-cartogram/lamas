@@ -3,23 +3,27 @@ echo '<nav id="js-list" class="js-list menu ">';
 
     echo '<ul class="list list--inline ">';
 
-    foreach ($pages->visible() as $p): 
+    if (is_iterable($pages)):
 
-         echo '<li class="' . ($p->isOpen() ? 'is-active' : '') . '">';
+        foreach($pages->listed() as $p):
 
-        if($p->isOpen() && $page->isDescendantOf($p) && $children ) :
+            echo '<li class="' . ($p->isOpen() ? 'is-active' : '') . '">';
 
-            snippet('list-block', array('p' => $p));
+            if($p->isOpen() && $page->isDescendantOf($p) && $children ) :
 
-        else :
+                snippet('list-block', array('p' => $p));
 
-            echo '<a class=" link--secondary delta ' . ($p->isOpen() ? 'is-active' : '') . '" href="' . $p->url() . '">' . $p->title()->html() . '</a>';
+            else :
 
-        endif;
+                echo '<a class=" link--secondary delta ' . ($p->isOpen() ? 'is-active' : '') . '" href="' . $p->url() . '">' . $p->title()->html() . '</a>';
 
-        echo '</li>';
+            endif;
 
-    endforeach;
+            echo '</li>';
+
+        endforeach;
+
+    endif;
 
     echo '</ul>';
 

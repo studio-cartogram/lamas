@@ -1,0 +1,37 @@
+Title: Assemblies of Labor
+
+----
+
+Date: 2016-03-07
+
+----
+
+Author: WH Vivian Lee, James Macgillivray
+
+----
+
+Publication: Shaping New Knowledges: Proceedings of the 104th ACSA Annual Meeting
+
+----
+
+Color: #F2DFCA
+
+----
+
+Tags: Conference,Craft,Ornament
+
+----
+
+Excerpt: This paper first outlines installation scale projects where latent in the design is an attempt to bring back the voice of the craftsman while providing authorship to the student labor force. In large, building scale applications of computational design however, contemporary practices have evolved to create a new expertise crafts-force that combines an emphatic and integrated voice of designers, engineers, fabricators, and builders.  The second half of the article describes these collaborations, and demonstrates the advancement of workflow between computational design, fabrication, and building delivery through detailed case studies.  Much of the research is gathered through in-depth interviews with project managers, consultants, and engineers to describe the current landscape of architectural practice and the resurgence of an expertise craft in the labor of building.
+
+----
+
+External: 
+
+----
+
+Main: (picture: lee_4 extension: jpg class: half)
+
+----
+
+Uuid: WF2mT1JY3JA8KIh8

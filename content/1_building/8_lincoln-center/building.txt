@@ -1,0 +1,72 @@
+Title: Lincoln Center
+
+----
+
+Tagline: 
+
+----
+
+Color: #FFF68F
+
+----
+
+Location: New York, NY
+
+----
+
+Year: 2017
+
+----
+
+Status: Completed
+
+----
+
+Client: Lincoln Center
+
+----
+
+Team: Weihan Vivian Lee, James Macgillivray, Ella den Elzen, Kiefer Savage
+
+----
+
+Types: Retail,Object,Installation
+
+----
+
+Text: LAMAS worked with Lakeside Collaborative to design and fabricate a kiosk for Lincoln Center. During the summer months the kiosk features products designed by Small Stuff for Lincoln Center's first branded campaign. LAMAS incorporated translucent fabric with a custom alumninum frame and integrated battery powered lighting system. Although we echoed the iconic arches of Lincoln Center with the form of the kiosk, the materials are distinctly lighter.
+
+----
+
+Main:
+
+(picture: LC-08 extension: jpg class: half)
+(picture: LC-07 extension: jpg class: half)
+(picture: LC-04 extension: jpg class: full)
+(picture: LC-03 extension: jpg class: third)
+(picture: LC-02 extension: jpg class: half) 
+(picture: LC-05 extension: jpg class: full)
+
+----
+
+Credits:
+
+Structural: Nat Oppenheimer, Robert Silman Associates
+Fabricator: German Hurtado, CarvArt CNC Inc.
+Metal and Fabric: Dazian Creative Fabric Environments
+Lighting: FUEL Lighting Systems
+Graphic Design: Small Stuff
+Photography: Lakeside Collaborative
+
+----
+
+Press:
+
+- 
+  source: "Architect's Newspaper"
+  link: >
+    https://archpaper.com/2017/08/merchandise-design-lincoln-center/
+
+----
+
+Uuid: spD6YpvE6tdubH1l

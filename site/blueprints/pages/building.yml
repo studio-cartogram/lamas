@@ -1,0 +1,81 @@
+title: Building
+pages: true
+options:
+  preview: true
+  template: true
+files:
+  sortable: true
+
+fields:
+  title:
+    label: Title
+    type:  text
+  tagline:
+    label: Tagline
+    icon:  flash
+    type:  text
+    width: 1/2
+    help: An engaging "tweet" that gives just a taste of the project
+  color:
+    label: Colour
+    type:  text
+    width: 1/2
+    icon: hashtag
+    help: "Hex value (hash followed by 6 characters) e.g white is #ffffff. http://cloford.com/resources/colours/500col.htm or use http://www.colorcodepicker.com/ to pick a colour from your image"
+  location:
+    label: Location
+    icon: map-marker
+    type:  text
+    width: 1/2
+  year:
+    label: Year
+    icon: calendar
+    type:  text
+    width: 1/2
+  status:
+    label: Status
+    icon: hourglass-2
+    type:  text
+    width: 1/2
+  client:
+    label: Client
+    icon: user
+    type:  text
+    width: 1/2
+  team:
+    label: Team
+    icon: users
+    type:  text
+  types:
+    label: Type
+    type:  tags
+  text:
+    label: Text
+    type:  textarea
+  main:
+    label: Main Content
+    type:  textarea
+    help: "Insert images here. Refer to previous posts and copy the correct image syntax."
+  cover:
+    type: files
+    label: Cover
+    layout: cards
+    info: "{{ file.dimensions }}"
+    template: cover
+    min: 0
+    max: 1
+  credits:
+    label: Credits
+    type:  textarea
+    help: "If you need to add credits for work completed by those outside of the core project team use the following format (credit: Photography name: John Smith)"
+  press: 
+    label: Press
+    type: structure
+    fields: 
+      source: 
+        label: Source
+        type: text
+        help: The name of the publication or website
+      link: 
+        label: Link
+        type: url

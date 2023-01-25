@@ -1,0 +1,80 @@
+Title: Avling Kitchen & Brewery
+
+----
+
+Tagline: 
+
+----
+
+Color: #00F5FF
+
+----
+
+Location: Toronto, ON
+
+----
+
+Year: 2019
+
+----
+
+Status: Completed
+
+----
+
+Client: Avling
+
+----
+
+Team: James Macgillivray, Weihan Vivian Lee, Ella den Elzen, Kiefer Savage, Ron Noble
+
+----
+
+Types: Restaurant,Brewery,Hospitality
+
+----
+
+Text: A renovation of an old A&P supermarket, Avling Kitchen and Brewery draws inspiration from the “field to glass” principle of early breweries. The concept was to deliver a clean, bright inclusive space. Fields of activity are delineated by larger than life 3x6 raw wood frames, pink steel, and optic fields of lights, glazing and a custom mural. On the roof of the building is a 400 square meter vegetable and herb garden. The roof is integral to the function of the whole building and maintains a connection to the name Avling, Norwegian for harvest. The mural by Madison van Rijn reinterprets the crop fields of rural Ontario as color fields, patterning the walls with forms on the verge of recognition.
+
+----
+
+Main:
+
+(picture: Avling_Section extension: jpg class: full)
+(picture: Avling_6_web extension: jpg class: full)
+(picture: Avling_7_web extension: jpg class: half)
+(picture: Avling_11_web extension: jpg class: half)
+(picture: Avling_3_web extension: jpg class: full)
+(picture: Avling_9_web extension: jpg class: full)
+(picture: Avling_14_web extension: jpg class: half)
+(picture: Avling_16_web extension: jpg class: half)
+(picture: Avling_15_web extension: jpg class: full)
+(picture: Avling_18_web extension: jpg class: half)
+(picture: Avling_17_web extension: jpg class: half)
+(picture: Avling_21_web extension: jpg class: full)
+
+----
+
+Credits:
+
+Photography: Félix Michaud
+Executive Architect: MGBA
+Structural Engineer: Blackwell
+Mechanical Engineer: Spline
+Contractor: BLT Construction
+Mural Artist: Madison van Rijn
+Lighting Consultant: CS Design
+Millwork: Creativebuild
+
+----
+
+Press:
+
+- 
+  source: Frameweb
+  link: >
+    https://www.frameweb.com/news/avling-kitchen-and-brewery-lamas
+
+----
+
+Uuid: 57HhFAIi815hQaMC

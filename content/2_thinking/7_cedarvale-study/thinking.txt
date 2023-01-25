@@ -1,0 +1,53 @@
+Title: Cedarvale Study
+
+----
+
+Tagline: 
+
+----
+
+Color: #A6D9C6
+
+----
+
+Location: Toronto
+
+----
+
+Year: 2017
+
+----
+
+Status: In Progress
+
+----
+
+Client: 
+
+----
+
+Team: Vivian Lee, James Macgillivray, Grace Chang
+
+----
+
+Types: 
+
+----
+
+Text: 
+
+----
+
+Main: 
+
+----
+
+Credits: 
+
+----
+
+Press: 
+
+----
+
+Uuid: lGg1PliZSkhFT9V6

@@ -2,7 +2,9 @@ Title: Home
 
 ----
 
-Text: Yay! If you are seeing this, the installation of Kirby worked. :)
+Text:
+
+Yay! If you are seeing this, the installation of Kirby worked. :)
 
 ## Get started
 
@@ -13,3 +15,7 @@ Text: Yay! If you are seeing this, the installation of Kirby worked. :)
 - (link: http://getkirby.com/support text: Get in contact) if you need support.
 
 **Have fun with Kirby!**
+
+----
+
+Uuid: CrwSMnnheyws7KQE

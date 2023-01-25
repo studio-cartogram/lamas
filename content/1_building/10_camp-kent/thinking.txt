@@ -1,0 +1,61 @@
+Title: Camp Kent
+
+----
+
+Tagline: 
+
+----
+
+Color: #9fdfbf
+
+----
+
+Location: Kent, CT
+
+----
+
+Year: 2015
+
+----
+
+Status: Completed
+
+----
+
+Client: Private
+
+----
+
+Team: James Macgillivray, Vivian Lee, Clara Syme, Dakota Wares-Tani
+
+----
+
+Types: Renovation,Residential,Masterplan
+
+----
+
+Text: Camp Kent is a renovated house that was combined from a series of boys/girls summer camp buildings in Kent, CT. Three of the old camp shacks, the Music Room, "Feeling Better" infirmary, and an old boat house were all brought together with new interiors.
+
+----
+
+Main: 
+
+(picture:CK_02 extension:jpg class:half)
+(picture:CK_03 extension:jpg class:half)
+(picture:CK_04 extension:jpg class:half)
+(picture:CK_05 extension:jpg class:third)
+(picture:CK_06 extension:jpg class:third)
+(picture:CK_07 extension:jpg class:half)
+(picture:CK_08 extension:jpg class:third)
+(picture:CK_09 extension:jpg class:half)
+(picture:CK_10 extension:jpg class:half)
+(picture:CK_11 extension:jpg class:half)
+(picture:CK_12 extension:jpg class:half)
+
+----
+
+Credits: Photography: Jane Beiles Photography
+
+----
+
+Press: 

@@ -1,0 +1,73 @@
+Title: Folly Tree Arboretum
+
+----
+
+Tagline: 
+
+----
+
+Color: #3ca17d
+
+----
+
+Location: Long Island
+
+----
+
+Year: 2022
+
+----
+
+Status: In-Process
+
+----
+
+Client: Private
+
+----
+
+Team: James Macgillivray, Weihan Vivian Lee, Andrea Rodriguez Fos
+
+----
+
+Types: New Construction,Institutional
+
+----
+
+Text:
+
+At the eastern point of Long Island there is an exceedingly unique collection of trees called the Folly Tree Arboretum. In total there are 250 rare, unusual and culturally significant trees. Each seems to hover between its existence as a natural organism and a cultural entity–a personality. When the clients approached the architects to design an event space and studio, they had a very specific idea in mind: first, to reuse an existing barn on site, but also to make a building that was mute and unassuming, but slightly off.
+
+Subsequently, the design of the building, particularly the sequence of its understanding, is inspired by the anthropomorphism and personification that is so common at the arboretum. The architects began with a glyph of a smiling face and tried to find ways to see those lines in the existing building. In short, to coax the barn into personhood. Thus the ever present peaked roof became the high point of a nose or a smile, mellowing out through a ruled surface to end at the entry door. When seen in a ¾ view, the forms of the face (at least in the eye/windows and roof/smile) still linger.
+
+----
+
+Main:
+
+(picture: follytree_1_web extension: jpg class: full)
+(picture: follytree_5_web extension: jpg class: half)
+(picture: follytree_2_web extension: jpg class: half)
+(picture: follytree_3_web extension: jpg class: full)
+(picture: follytree_4_web extension: jpg class: full)
+(picture: follytree_6_web extension: jpg class: full)
+(picture: follytree_7_web extension: jpg class: half)
+(picture: follytree_9_web extension: jpg class: half)
+(picture: follytree_8_web extension: jpg class: full)
+(picture: FollyTree_animation extension: mov class: half)
+
+----
+
+Press:
+
+- 
+  source: Architects Newspaper Best of Design Unbuilt-Commercial, Cultural, Civic, Education, 2022
+  link: >
+    https://www.archpaper.com/2022/12/announcing-the-winners-of-ans-2022-best-of-design-awards/
+
+----
+
+Credits: Renderings: D-Render
+
+----
+
+Uuid: p2CHlJEhPLS6YcuQ

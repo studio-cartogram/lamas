@@ -9,7 +9,7 @@
 
     echo '<ul class="list list--block list--block--' . $p->uid() . '">';
 
-    foreach ($p->children()->visible() as $p): 
+    foreach ($p->children()->listed() as $p): 
 
             echo '<li class="">';
 

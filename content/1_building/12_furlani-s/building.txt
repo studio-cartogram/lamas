@@ -1,0 +1,56 @@
+Title: Bread Spread
+
+----
+
+Tagline: A journey into bread
+
+----
+
+Color: #ff9999
+
+----
+
+Location: Toronto, ON
+
+----
+
+Year: 2015
+
+----
+
+Status: Proposed
+
+----
+
+Client: Furlani Foods
+
+----
+
+Team: James Macgillivray, Vivian Lee, Liu Liu, Clara Syme, Miriam Wierzchoslawska
+
+----
+
+Types: Mural
+
+----
+
+Text: A local bread factory asked us to design a mural for their new freezer building. We got really into their products and conceived of the murals as a journey into bread.
+
+----
+
+Main:
+
+(picture: f_01 extension: jpg class: full)
+(picture: f_02 extension: jpg class: full)
+
+----
+
+Credits: 
+
+----
+
+Press: 
+
+----
+
+Uuid: GsLhEkRtmE9Y4O5s

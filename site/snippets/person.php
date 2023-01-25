@@ -13,7 +13,7 @@ echo '<div class="content">';
     echo '</div>';
 
 
-    $experiences = $p->children()->visible();
+    $experiences = $p->children()->listed();
 
 
     echo '<div class="matrix matrix--head">';

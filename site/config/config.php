@@ -15,11 +15,12 @@ for more information: http://getkirby.com/license
 
 */
 
-c::set('license', 'K2-PERSONAL-3f5ff4ab7935f8b15735f2af0d33ba6b');
+return [
+  'debug'  => true,
+  'home' => 'building'
+];
 
-c::set('debug', true);
-c::set('home', 'building');
-c::set('markdown.extra', true);
+
 /*
 
 ---------------------------------------

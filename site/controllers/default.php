@@ -2,10 +2,12 @@
 
 return function($site, $pages, $page) {
 
-    $children = $page->children()->visible();
-    $buildings = page('building')->children()->visible();
-    $thoughts = page('thinking')->children()->visible();
-    $writings = page('writing')->children()->visible();
+    $children = $page->children()->listed();
+    $buildings = page('building')->children()->listed();
+    $thoughts = page('thinking')->children()->listed();
+    $writings = page('writing')->children()->listed();
+    $tags = page('writing')->tags();
+    $types = page('building')->types();
 
     // Not homepage;
 

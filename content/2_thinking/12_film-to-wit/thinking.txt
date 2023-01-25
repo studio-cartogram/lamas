@@ -1,0 +1,89 @@
+Title: Film to Wit
+
+----
+
+Tags: musings, essays, long form
+
+----
+
+Location: Ann Arbor, MI
+
+----
+
+Year: 2012
+
+----
+
+Status: Completed
+
+----
+
+Client: University of Michigan
+
+----
+
+Team: Patrick Ethen, Wei-Han Vivian Lee, Angela Burke, Ryan Goold, Justin
+
+----
+
+Types: Experiment
+
+----
+
+Main:
+
+(picture: ftw-01 extension: jpg class: full)
+(picture: ftw-08 extension: jpg class: full)
+(picture: ftw-03 extension: jpg class: half)
+(picture: ftw-04 extension: jpg class: half)
+(picture: ftw-07 extension: jpg class: full)
+(picture: ftw-05 extension: jpg class: half)
+(picture: ftw-06 extension: jpg class: half)
+(picture: ftw-02 extension: jpg class: full)
+
+----
+
+Date: 
+
+----
+
+Download: 
+
+----
+
+Excerpt: 
+
+----
+
+Full: 
+
+----
+
+Url: 
+
+----
+
+Tagline: Spheres, pyramids, tapestries, lattices and prisms
+
+----
+
+Color: #C4DEE9
+
+----
+
+Text: The notion of filmic space always begins with the friendship of Eisenstein and Le Corbusier, both of them walking in parallax around the precincts of the Acropolis. Le Corbusier moves with the smoothness of the architectural promenade; Eisenstein sees collision in the succession of architectural images. Other spatial figures exist in the pantheon of film, but must be drawn out. This work lays out a handful of filmic spaces as in a cabinet of curiosities. Spheres, pyramids, tapestries, lattices and prisms among others – all are latent in film. By bringing these figures out of the dark, fleeting confines of the cinema and into architectural representation, the project points towards unforeseen as yet untapped potentials for view, projection and enclosure.
+
+----
+
+Credits:
+
+(credit: Design and Fabrication Assistants name: Patrick Ethen, Wei-Han Vivian Lee)
+(credit: Research Assistants name: Angela Burke, Ryan Goold, Justin Kollar)
+
+----
+
+Press: 
+
+----
+
+Uuid: D0toUytmOWTenGjo

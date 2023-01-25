@@ -1,0 +1,37 @@
+Title: Delirious Facade
+
+----
+
+Date: 2019-03-29
+
+----
+
+Author: Vivian Lee, James Macgillivray
+
+----
+
+Publication: 107th ACSA Annual Meeting  |  BLACK BOX: Articulating Architecture's Core in the Post-Digital Era
+
+----
+
+Color: #FFF0F5
+
+----
+
+Tags: 
+
+----
+
+Excerpt: This paper looks at a recent developments in digital knowledge and design towards what the authors call “raster” based surfaces and away from “vector” lineaments. The authors present this turn in relation to the historical context of facade composition, drawing an analogy between the beaux-arts understanding of facades as a consequence of plan and section and the auditable and verifiable scripts of parametric design. In contrast to the vector, the authors present contemporary developments in machine learning and perception that privilege an interaction with the world based on surfaces and pixels. Lastly they present the potential for the raster digital as a design tool, using artificial intelligence to synthesize hybrid facade designs in a digital dream state.
+
+----
+
+External: http://www.acsa-arch.org/docs/default-source/conference-archive-materials/107-abstractbook-updated5.pdf?sfvrsn=2
+
+----
+
+Main: (picture: fig-2 extension: png class: full)
+
+----
+
+Uuid: H2yhswLUy3fW4M97

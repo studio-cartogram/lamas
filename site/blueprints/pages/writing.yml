@@ -1,0 +1,45 @@
+title: Writing projects
+pages: true
+options:
+  preview: true
+  template: true
+files:
+  sortable: true
+fields:
+  title:
+    label: Title
+    type:  text
+  date:
+    label: Date
+    type: date
+    format: l
+    width: 1/2
+  author:
+    label: Author Credit
+    type: text
+    width: 1/2
+  publication:
+    label: Publication Name
+    type:  text
+  color:
+    label: Colour
+    type:  text
+    width: 1/2
+    icon: hashtag
+    help: "Hex value (hash followed by 6 characters) e.g white is #ffffff. http://cloford.com/resources/colours/500col.htm"
+  tags:
+    label: Tags
+    type:  tags
+    width: 1/2
+    help: Press, Published, Experiment, Update, Opinion, Story, Speaking, Film, Architecture, Book, Teaching, etc.
+  excerpt:
+    label: Excerpt
+    type:  textarea
+    help: Include only a portion of the text if that's all there is or if you can only publish a snippet
+  external:
+    label: External Link
+    type:  url
+  main:
+    label: Main Content
+    type:  textarea
+    help: "Include the full article here, text and images. Images should be referenced using the following format "(picture: filename extension: jpg class: half)" and text blocks should be referenced using the following format "(story: Lorem ipsum dolar sit amet.)"

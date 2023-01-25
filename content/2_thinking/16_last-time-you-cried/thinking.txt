@@ -1,0 +1,63 @@
+Title: Last Time You Cried
+
+----
+
+Client: University of Michigan, Tung-Hui Hu
+
+----
+
+Year: 2010
+
+----
+
+Types: Installation
+
+----
+
+Text: Using voice recognition software and other technological filters, The Last Time You Cried turns stories recorded by participants into poems. These poems, which respond to the prompt “When was the last time you cried?”, can be heard inside the installation’s listening booths. The architectural installation takes its cue from computer translation of voices, analyzed as extruded soundwaves. The collection of sound waves becomes the outline for the inner landscape of the listening booth, a spatial topography that both houses and is composed of confidential confessions.
+
+----
+
+Main:
+
+(picture: ltyc-05 extension: jpg class: full)
+(picture: ltyc-07 extension: jpg class: full)
+(picture: ltyc-08 extension: jpg class: half)
+(picture: ltyc-09 extension: jpg class: half)
+(picture: ltyc-10 extension: jpg class: half)
+(picture: ltyc-12 extension: jpg class: half)
+(picture: ltyc-15 extension: jpg class: half)
+(picture: ltyc-14 extension: jpg class: half)
+(picture: ltyc-01 extension: jpg class: full)
+
+----
+
+Location: Ann Arbor, MI
+
+----
+
+Status: Completed
+
+----
+
+Team: Wei-Han Vivian Lee, Tung-Hui Hu, Gaurav Bhathagar, James Macgillivray, Annie Markey, Zoe Iris
+
+----
+
+Tagline: A spatial topography of confidential confessions
+
+----
+
+Color: #99BBF2
+
+----
+
+Credits: 
+
+----
+
+Press: 
+
+----
+
+Uuid: GAsq7zB3zng7XwIr

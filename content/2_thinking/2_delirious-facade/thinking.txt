@@ -1,0 +1,73 @@
+Title: Delirious Facade
+
+----
+
+Tagline: Using artificial intelligence image processing as a generator for architectural facades
+
+----
+
+Color: #d6c0b1
+
+----
+
+Location: Toronto
+
+----
+
+Year: 2016
+
+----
+
+Status: In Progress
+
+----
+
+Client: Private
+
+----
+
+Team: Vivian Lee, James Macgillivray, Ella den Elzen, Miriam Wierzchoslawska, Kara Verbeek, Andrea Rodriguez Fos, Meiyun Zhang, Elmer Lyu, Eisa Hayashi
+
+----
+
+Types: Research
+
+----
+
+Text:
+
+Delirious Facade is a design research project that uses image processing artificial intelligence as a generator for architectural form and ornament. The project catalogues various types of facades that exist in Toronto and uses these visual signatures or patterns as the material for the generation of hybrid facades using Google’s Deep Dream software. Our use of the software achieves hybrid facades by asking the computer to see one facade in the image of another. For example we might ask it to look for arched windows in the smooth reflective curtain wall of an office building, or to see the strong horizontal lines of 60s housing in the facade of a 2 story house. The process can be understood as the architectural equivalent of the popular “Face Swap” smart phone application, although more sophisticated in practice. 
+
+The resulting facade proposals are inherently contextual, and relate to historical precedent but do so in ways that are not tied down to dominant formal narratives. These are not modernist facades but they are equally at odds with postmodernism. If anything they are altermodern, they are made in the heterochrony of the present. They are formed “in medias res”, (in the middle of things) and embody the present moment in all its delirium.
+
+----
+
+Main:
+
+(picture:arch-diag extension:jpg class:full caption:Combining the 1976 Toronto Royal Bank Plaza 1976 with the 1874  Christie Biscuit factory.)(picture:archeds extension:jpg class:full)(picture:rb-diag extension:jpg class:full caption:Combining a 1970s circular residential building with a 1906 brick
+hotel.) (picture:roundbldg extension:jpg class:full)
+(picture:gif2 extension:gif class:third) (picture:1 extension:gif class:third)
+(picture:studentswork8 extension:jpg class:full)
+(picture:studentswork9 extension:jpg class:full)
+(picture:model1 extension: jpg class:third)(picture:gif3 extension: gif class: third)
+(picture:model3 extension:jpg class:full)
+(picture:model2 extension:jpg class:third)(picture:gif4 extension: gif class: third)
+(picture:model4 extension:jpg class:full)
+(picture:studentswork4 extension:jpg class:full)
+(picture:studentswork2 extension:jpg class:full)
+(picture:studentswork3 extension:jpg class:full)
+(picture:binder1_page_9 extension:jpg class:third)(picture:binder1_page_1 extension:jpg class:third)
+(picture:studentswork6 extension:jpg class:full)
+(picture:studentswork7 extension:jpg class:full)
+
+----
+
+Credits: 
+
+----
+
+Press: 
+
+----
+
+Uuid: pQrVoN5jigFW1Xge

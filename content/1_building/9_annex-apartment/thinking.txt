@@ -1,0 +1,57 @@
+Title: Annex Apartment
+
+----
+
+Tagline: Up in the treetops, downtown
+
+----
+
+Color: #ffff80
+
+----
+
+Location: Toronto, ON
+
+----
+
+Year: 2016
+
+----
+
+Status: Completed
+
+----
+
+Client: Private
+
+----
+
+Team: James Macgillivray, Vivian Lee, Clara Syme, Dakota Wares-Tani, Liu Liu
+
+----
+
+Text: We designed a modern apartment at the top two levels of a heritage townhouse. Adding a panoramic window wall to a large exterior balcony gives this apartment a feel of being in the treetops of downtown Toronto.
+
+----
+
+Main: 
+
+(picture:picture-aa_01-extension-jpg-class-half-caption extension:jpg class:half)
+(picture:picture-aa_02-extension-jpg-class-full-caption extension:jpg class:full)
+(picture:picture-aa_03-extension-jpg-class-full-caption extension:jpg class:full)
+(picture:picture-aa_04-extension-jpg-class-full-caption extension:jpg class:full)
+(picture:picture-aa_05-extension-jpg-class-full-caption extension:jpg class:full)
+(picture:picture-aa_06-extension-jpg-class-full-caption extension:jpg class:full)
+(picture:picture-aa_07-extension-jpg-class-half-caption extension:jpg class:half)
+
+----
+
+Credits: Photography: Tom Arban
+
+----
+
+Press: 
+
+----
+
+Types: Renovation,Residential,Heritage
