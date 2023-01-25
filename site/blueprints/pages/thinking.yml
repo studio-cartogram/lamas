@@ -55,6 +55,14 @@ fields:
     label: Main Content
     type:  textarea
     help: "Insert images here. Refer to previous posts for the correct image syntax."
+  cover:
+    type: files
+    label: Cover
+    layout: cards
+    info: "{{ file.dimensions }}"
+    template: cover
+    min: 0
+    max: 1
   credits:
     label: Credits
     type:  textarea
