@@ -1,0 +1,37 @@
+.employees__container {
+    display: flex;
+    flex-direction: row;
+    background: red;
+}
+
+
+.employee.employee {
+    margin: 0 calc(var(--unitDuo) * -1);
+    width: auto;
+}
+
+.employee__image {
+    padding: 0;
+    @media (--viewport-medium) {
+        flex: 1;
+    }
+}
+
+.employee__content {
+    padding:var(--unitDuo);
+    @media (--viewport-medium) {
+        flex: 3;
+    }
+}
+
+.employee:nth-child(even) {
+    @media (--viewport-medium) {
+        & .press__image {
+            order:2;
+        }
+    }
+}
+
+.employee__description.employee__description {
+    max-width: 100%;
+}

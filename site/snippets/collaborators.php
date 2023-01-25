@@ -10,7 +10,7 @@ echo '<div class="row ">';
 
     echo '<div class="content">';
 
-    echo '<h4>LAMAS Past and Present</h4>';
+    echo '<h4>LAMAS Past</h4>';
 
     echo '<ul class="list list--content-columns">';
 

@@ -52,6 +52,21 @@ fields:
     type: number
     width: 1/2
     help: -79.399717
+  employees:
+    label: Employees
+    type: structure
+    fields: 
+      name: 
+        label: Name
+        type: text
+      bio: 
+        label: Bio
+        type: textarea
+      headshot: 
+        label: Photo
+        type: files
+        min: 0
+        max: 1
   people:
     label: People/Collaborators
     type:  tags

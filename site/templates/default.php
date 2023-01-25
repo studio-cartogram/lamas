@@ -41,6 +41,8 @@ else :
 
         snippet('people');
 
+        snippet('employees');
+
         snippet('collaborators');
 
     else :
